@@ -1,0 +1,150 @@
+{
+    "generated_at": "2026-03-08 18:46:56",
+    "site_title": "HifiPig",
+    "months_back": 10,
+    "fallback_domain": "",
+    "items": [
+        {
+            "title": "New Post",
+            "excerpt": "New Post",
+            "date": "March 8, 2026",
+            "href": "./posts/new-post/index.html",
+            "type": "post"
+        },
+        {
+            "title": "hhjjh",
+            "excerpt": "",
+            "date": "January 26, 2026",
+            "href": "./posts/hhjjh/index.html",
+            "type": "post"
+        },
+        {
+            "title": "hjhhhjh",
+            "excerpt": "",
+            "date": "January 26, 2026",
+            "href": "./posts/hjhhhjh/index.html",
+            "type": "post"
+        },
+        {
+            "title": "hihkn",
+            "excerpt": "",
+            "date": "January 26, 2026",
+            "href": "./posts/hihkn/index.html",
+            "type": "post"
+        },
+        {
+            "title": "hghhh",
+            "excerpt": "",
+            "date": "January 26, 2026",
+            "href": "./posts/hghhh/index.html",
+            "type": "post"
+        },
+        {
+            "title": "dali",
+            "excerpt": "Danish HiFi brand DALI has announced the new DALI SONIK loudspeaker series, a new seven-model range designed for HiFi and home cinema use. The line marks DALI\u2019s most extensive introduction since OBERON in 2018 and is positioned to appeal both&hellip;",
+            "date": "January 14, 2026",
+            "href": "./posts/dali/index.html",
+            "type": "post"
+        },
+        {
+            "title": "This is a nice piicture of a cloud",
+            "excerpt": "This is a nice picture of a cloud",
+            "date": "January 14, 2026",
+            "href": "./posts/this-is-a-nice-piicture-of-a-cloud/index.html",
+            "type": "post"
+        },
+        {
+            "title": "test",
+            "excerpt": "http://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.php http://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phpv",
+            "date": "January 9, 2026",
+            "href": "./posts/test/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Sample Page",
+            "excerpt": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to&hellip;",
+            "date": "January 9, 2026",
+            "href": "./posts/sample-page/index.html",
+            "type": "page"
+        },
+        {
+            "title": "Hello world!",
+            "excerpt": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+            "date": "January 9, 2026",
+            "href": "./posts/hello-world/index.html",
+            "type": "post"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Uncategorized",
+            "description": "",
+            "slug": "uncategorized",
+            "source_url": "http://test.local/category/uncategorized/",
+            "posts": [
+                {
+                    "title": "New Post",
+                    "excerpt": "New Post",
+                    "date": "March 8, 2026",
+                    "href": "../../posts/new-post/index.html"
+                },
+                {
+                    "title": "hhjjh",
+                    "excerpt": "",
+                    "date": "January 26, 2026",
+                    "href": "../../posts/hhjjh/index.html"
+                },
+                {
+                    "title": "hjhhhjh",
+                    "excerpt": "",
+                    "date": "January 26, 2026",
+                    "href": "../../posts/hjhhhjh/index.html"
+                },
+                {
+                    "title": "hihkn",
+                    "excerpt": "",
+                    "date": "January 26, 2026",
+                    "href": "../../posts/hihkn/index.html"
+                },
+                {
+                    "title": "hghhh",
+                    "excerpt": "",
+                    "date": "January 26, 2026",
+                    "href": "../../posts/hghhh/index.html"
+                },
+                {
+                    "title": "This is a nice piicture of a cloud",
+                    "excerpt": "This is a nice picture of a cloud",
+                    "date": "January 14, 2026",
+                    "href": "../../posts/this-is-a-nice-piicture-of-a-cloud/index.html"
+                },
+                {
+                    "title": "test",
+                    "excerpt": "http://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.php http://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phphttp://test.local/wp-admin/post-new.phpv",
+                    "date": "January 9, 2026",
+                    "href": "../../posts/test/index.html"
+                },
+                {
+                    "title": "Hello world!",
+                    "excerpt": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+                    "date": "January 9, 2026",
+                    "href": "../../posts/hello-world/index.html"
+                }
+            ]
+        },
+        {
+            "name": "News",
+            "description": "",
+            "slug": "news",
+            "source_url": "http://test.local/category/news/",
+            "posts": [
+                {
+                    "title": "dali",
+                    "excerpt": "Danish HiFi brand DALI has announced the new DALI SONIK loudspeaker series, a new seven-model range designed for HiFi and home cinema use. The line marks DALI\u2019s most extensive introduction since OBERON in 2018 and is positioned to appeal both&hellip;",
+                    "date": "January 14, 2026",
+                    "href": "../../posts/dali/index.html"
+                }
+            ]
+        }
+    ]
+}
