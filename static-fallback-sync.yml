@@ -3,18 +3,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync:
+  print:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-      - name: Pull static export from somewhere (optional)
-        run: |
-          echo "Plugin deployed from WP already; this workflow can now run your publish step."
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: your-pages-project
-          directory: . 
+      - run: echo "Dispatch received from fallback plugin"
