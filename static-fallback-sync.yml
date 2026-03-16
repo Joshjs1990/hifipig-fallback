@@ -1,9 +1,0 @@
-name: Static Fallback Sync
-on:
-  workflow_dispatch:
-
-jobs:
-  print:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Dispatch received from fallback plugin"
