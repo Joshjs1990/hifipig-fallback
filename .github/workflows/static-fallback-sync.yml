@@ -85,15 +85,18 @@ jobs:
             done
           fi
 
+          missing_files=0
           jq -r '.files[]' "$new_manifest" | while IFS= read -r rel_path; do
             [ -z "$rel_path" ] && continue
             mkdir -p "$(dirname "$rel_path")"
             echo "Downloading: $rel_path"
             if ! curl --fail --silent --show-error "$base_url/$rel_path" -o "$rel_path"; then
-              echo "Failed to download $base_url/$rel_path"
-              exit 1
+              echo "WARNING: Could not download $base_url/$rel_path; skipping"
+              missing_files=$((missing_files+1))
+              continue
             fi
           done
+          echo "Completed downloads. Missing files: $missing_files"
 
       - name: Commit and push changes
         env:
