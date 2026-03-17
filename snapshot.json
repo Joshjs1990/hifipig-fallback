@@ -1,9 +1,23 @@
 {
-    "generated_at": "2026-03-17 11:10:55",
+    "generated_at": "2026-03-17 14:31:38",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Tellurium Q Silver III Series Cables",
+            "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+            "date": "March 17, 2026",
+            "href": "./posts/tellurium-q-silver-iii-series-cables/index.html",
+            "type": "post"
+        },
+        {
+            "title": "ACTIVO Scoop Earphones UK Launch",
+            "excerpt": "ACTIVO SCOOP EARPHONES LAUNCH IN THE UK WITH ASTELL&amp;KERN TUNING ACTIVO has announced UK availability of its ACTIVO Scoop earphones, a wired in-ear model developed with tuning from Astell&amp;Kern. &nbsp;The launch comes amid continued interest in wired listening solutions, with&hellip;",
+            "date": "March 17, 2026",
+            "href": "./posts/activo-scoop-earphones-uk-launch/index.html",
+            "type": "post"
+        },
         {
             "title": "Audio Visual Technology Solutions With EMM Labs And Zellaton At Audio Show Deluxe 2026",
             "excerpt": "AUDIO VISUAL TECHNOLOGY SOLUTIONS PRESENT EMM LABS AND ZELLATON SYSTEM Audio Visual Technology Solutions will demonstrate a complete reference HiFi system, with EMM Labs electronics and Zellaton loudspeakers, at Audio Show Deluxe 2026. The exhibitor will present the system as&hellip;",
@@ -493,29 +507,41 @@
             "date": "February 17, 2026",
             "href": "./posts/ultrafide-audio-enso-int-125-integrated-amplifier-launches-at-bristol-hifi-show-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "Edwards Audio MC6 Phonostage",
-            "excerpt": "EDWARDS AUDIO MC6 PHONOSTAGE LAUNCHED The Edwards Audio MC6 Phonostage is a dedicated MM/MC phono stage offering separate, optimised signal paths for moving magnet and moving coil cartridges. Cartridge type selection is made via a rear-panel switch, while internal DIP&hellip;",
-            "date": "February 17, 2026",
-            "href": "./posts/edwards-audio-mc6-phonostage/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Fyne Audio At The Bristol Hifi Show 2026",
-            "excerpt": "FYNE AUDIO F500SP AND S-TRAX SUPERTWEETER SYSTEMS TAKE CENTRE STAGE WITH HiFi PiG EDITOR STUART SMITH&nbsp; PRESENTING A REVIEWER SESSION Scottish loudspeaker manufacturer Fyne Audio is taking over a large space at the Bristol HiFi Show 2026, presenting multiple demonstration&hellip;",
-            "date": "February 17, 2026",
-            "href": "./posts/fyne-audio-at-the-bristol-hifi-show-2026/index.html",
-            "type": "post"
         }
     ],
     "categories": [
+        {
+            "name": "Cables",
+            "description": "<p>Hifi cable and accessories reviews</p>\n",
+            "slug": "cables-accessories",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/cables-accessories/",
+            "posts": [
+                {
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
+                }
+            ]
+        },
         {
             "name": "Hifi News",
             "description": "",
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
+                },
+                {
+                    "title": "ACTIVO Scoop Earphones UK Launch",
+                    "excerpt": "ACTIVO SCOOP EARPHONES LAUNCH IN THE UK WITH ASTELL&amp;KERN TUNING ACTIVO has announced UK availability of its ACTIVO Scoop earphones, a wired in-ear model developed with tuning from Astell&amp;Kern. &nbsp;The launch comes amid continued interest in wired listening solutions, with&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/activo-scoop-earphones-uk-launch/index.html"
+                },
                 {
                     "title": "Audio Visual Technology Solutions With EMM Labs And Zellaton At Audio Show Deluxe 2026",
                     "excerpt": "AUDIO VISUAL TECHNOLOGY SOLUTIONS PRESENT EMM LABS AND ZELLATON SYSTEM Audio Visual Technology Solutions will demonstrate a complete reference HiFi system, with EMM Labs electronics and Zellaton loudspeakers, at Audio Show Deluxe 2026. The exhibitor will present the system as&hellip;",
@@ -929,18 +955,44 @@
                     "excerpt": "ULTRAFIDE AUDIO ENSO INT-125 INTEGRATED AMPLIFIER MAKES BRISTOL HIFI SHOW 2026 DEBUT Ultrafide Audio has announced its first integrated amplifier, the Ultrafide Audio ENSO INT-125, which will be shown publicly for the first time at the Bristol HiFi Show 2026.&hellip;",
                     "date": "February 17, 2026",
                     "href": "../../posts/ultrafide-audio-enso-int-125-integrated-amplifier-launches-at-bristol-hifi-show-2026/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Hifi Reviews",
+            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
+            "slug": "hifi-reviews",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
+            "posts": [
+                {
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
                 },
                 {
-                    "title": "Edwards Audio MC6 Phonostage",
-                    "excerpt": "EDWARDS AUDIO MC6 PHONOSTAGE LAUNCHED The Edwards Audio MC6 Phonostage is a dedicated MM/MC phono stage offering separate, optimised signal paths for moving magnet and moving coil cartridges. Cartridge type selection is made via a rear-panel switch, while internal DIP&hellip;",
-                    "date": "February 17, 2026",
-                    "href": "../../posts/edwards-audio-mc6-phonostage/index.html"
+                    "title": "Pro-Ject Debut Reference 10 Turntable",
+                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
+                    "date": "March 12, 2026",
+                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
                 },
                 {
-                    "title": "Fyne Audio At The Bristol Hifi Show 2026",
-                    "excerpt": "FYNE AUDIO F500SP AND S-TRAX SUPERTWEETER SYSTEMS TAKE CENTRE STAGE WITH HiFi PiG EDITOR STUART SMITH&nbsp; PRESENTING A REVIEWER SESSION Scottish loudspeaker manufacturer Fyne Audio is taking over a large space at the Bristol HiFi Show 2026, presenting multiple demonstration&hellip;",
-                    "date": "February 17, 2026",
-                    "href": "../../posts/fyne-audio-at-the-bristol-hifi-show-2026/index.html"
+                    "title": "Final Tonalite True-Wireless Earphones",
+                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
+                    "date": "March 11, 2026",
+                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
+                },
+                {
+                    "title": "Quad Platina Integrated Amplifier",
+                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
+                    "date": "March 6, 2026",
+                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
+                },
+                {
+                    "title": "EAT F-Dur Turntable",
+                    "excerpt": "EAT F-DUR TURNTABLE REVIEW The EAT F-DUR Turntable is a \u00a37899 (plus \u00a31300 for the LPS 2 linear power supply) vinyl spinner from the company headed up by Jozefina Lichtenegger. Janine Elliot takes a listen for HiFi PiG. There are&hellip;",
+                    "date": "February 18, 2026",
+                    "href": "../../posts/eat-f-dur-turntable/index.html"
                 }
             ]
         },
@@ -1153,12 +1205,6 @@
                     "excerpt": "ULTRAFIDE AUDIO ENSO INT-125 INTEGRATED AMPLIFIER MAKES BRISTOL HIFI SHOW 2026 DEBUT Ultrafide Audio has announced its first integrated amplifier, the Ultrafide Audio ENSO INT-125, which will be shown publicly for the first time at the Bristol HiFi Show 2026.&hellip;",
                     "date": "February 17, 2026",
                     "href": "../../posts/ultrafide-audio-enso-int-125-integrated-amplifier-launches-at-bristol-hifi-show-2026/index.html"
-                },
-                {
-                    "title": "Fyne Audio At The Bristol Hifi Show 2026",
-                    "excerpt": "FYNE AUDIO F500SP AND S-TRAX SUPERTWEETER SYSTEMS TAKE CENTRE STAGE WITH HiFi PiG EDITOR STUART SMITH&nbsp; PRESENTING A REVIEWER SESSION Scottish loudspeaker manufacturer Fyne Audio is taking over a large space at the Bristol HiFi Show 2026, presenting multiple demonstration&hellip;",
-                    "date": "February 17, 2026",
-                    "href": "../../posts/fyne-audio-at-the-bristol-hifi-show-2026/index.html"
                 }
             ]
         },
@@ -1255,38 +1301,6 @@
                     "excerpt": "I am writing this after spending the last couple of days at the excellent Bristol HiFi Show, and what a couple of days it's been. Today\u2019s been one of those days where you get back to the hotel totally knackered&hellip;",
                     "date": "February 22, 2026",
                     "href": "../../posts/talking-bollocks-at-bristol-and-other-rock-and-roll-habits/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Hifi Reviews",
-            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
-            "slug": "hifi-reviews",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
-            "posts": [
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
-                },
-                {
-                    "title": "Final Tonalite True-Wireless Earphones",
-                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
-                    "date": "March 11, 2026",
-                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
-                },
-                {
-                    "title": "Quad Platina Integrated Amplifier",
-                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
-                    "date": "March 6, 2026",
-                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
-                },
-                {
-                    "title": "EAT F-Dur Turntable",
-                    "excerpt": "EAT F-DUR TURNTABLE REVIEW The EAT F-DUR Turntable is a \u00a37899 (plus \u00a31300 for the LPS 2 linear power supply) vinyl spinner from the company headed up by Jozefina Lichtenegger. Janine Elliot takes a listen for HiFi PiG. There are&hellip;",
-                    "date": "February 18, 2026",
-                    "href": "../../posts/eat-f-dur-turntable/index.html"
                 }
             ]
         },
