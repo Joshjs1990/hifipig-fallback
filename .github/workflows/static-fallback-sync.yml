@@ -71,6 +71,11 @@ jobs:
           new_manifest=/tmp/hifipig-export-manifest.json
           repo_manifest=.hifipig-export-manifest.json
 
+          echo "Loaded manifest:" $(jq -r '.generated_at // "(no generated_at)"' "$new_manifest")
+          echo "Total files:" $(jq -r '.files | length' "$new_manifest")
+          echo "First 20 manifest entries:" 
+          jq -r '.files[]' "$new_manifest" | sed -n '1,20p' || true
+
           if [ -f "$repo_manifest" ]; then
             jq -r '.files[]' "$repo_manifest" | while IFS= read -r old_file; do
               [ -z "$old_file" ] && continue
@@ -83,9 +88,11 @@ jobs:
           jq -r '.files[]' "$new_manifest" | while IFS= read -r rel_path; do
             [ -z "$rel_path" ] && continue
             mkdir -p "$(dirname "$rel_path")"
-            curl --fail --silent --show-error \
-              "$base_url/$rel_path" \
-              -o "$rel_path"
+            echo "Downloading: $rel_path"
+            if ! curl --fail --silent --show-error "$base_url/$rel_path" -o "$rel_path"; then
+              echo "Failed to download $base_url/$rel_path"
+              exit 1
+            fi
           done
 
       - name: Commit and push changes
