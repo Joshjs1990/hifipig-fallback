@@ -1,9 +1,30 @@
 {
-    "generated_at": "2026-03-18 16:05:42",
+    "generated_at": "2026-03-19 16:06:05",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Cadence Distribution Appointed UK Distributor For Revox",
+            "excerpt": "CADENCE DISTRIBUTION APPOINTED UK DISTRIBUTOR FOR REVOX Cadence Distribution has been appointed as the official UK distributor for Revox, the Swiss manufacturer known for its studio-based analogue and digital audio engineering. As part of the agreement, the Revox B77 MKIII&hellip;",
+            "date": "March 19, 2026",
+            "href": "./posts/cadence-distribution-appointed-uk-distributor-for-revox/index.html",
+            "type": "post"
+        },
+        {
+            "title": "\u00c9coute TH1 Bluetooth Headphones Launch In The UK",
+            "excerpt": "\u00c9COUTE TH1 BLUETOOTH HEADPHONES INTRODUCED IN UK BY ELECTROMOD, WITH VALVE-BASED DESIGN The \u00c9coute TH1 Bluetooth headphones have been introduced to the UK market through distributor Electromod, with availability effective immediately. Developed by \u00c9coute Audio, the TH1 are positioned as&hellip;",
+            "date": "March 19, 2026",
+            "href": "./posts/ecoute-th1-bluetooth-headphones-launch-in-the-uk/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Kog Audio At Audio Show Deluxe 2026",
+            "excerpt": "KOG AUDIO AT AUDIO SHOW DELUXE 2026 WITH SOULNOTE, T+A AND TRANSROTOR, TELLURIUM Q AND MORE Kog Audio will present two HiFi demonstration systems at Audio Show Deluxe 2026, taking place at Whittlebury Hall on 21st\u201322st March. The UK distributor&hellip;",
+            "date": "March 19, 2026",
+            "href": "./posts/kog-audio-at-audio-show-deluxe-2026/index.html",
+            "type": "post"
+        },
         {
             "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
             "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
@@ -13,7 +34,7 @@
         },
         {
             "title": "Moor Amps At Audio Show Deluxe 2026",
-            "excerpt": "MOOR AMPS ANGEL 6 AMPLIFIER TO BE DEMONSTRATED AT AUDIO SHOW DELUXE 2026 Moor Amps will be exhibiting at Audio Show Deluxe 2026, where visitors will be able to hear the company\u2019s range of British designed amplification. Demonstrations will take&hellip;",
+            "excerpt": "MOOR AMPS ANGEL 4 MKII AMPLIFIERS TO BE DEMONSTRATED AT AUDIO SHOW DELUXE 2026 Moor Amps will be exhibiting at Audio Show Deluxe 2026, where visitors will be able to hear the company\u2019s range of British designed amplification. At Audio&hellip;",
             "date": "March 18, 2026",
             "href": "./posts/moor-amps-at-audio-show-deluxe-2026/index.html",
             "type": "post"
@@ -500,20 +521,6 @@
             "date": "February 20, 2026",
             "href": "./posts/henley-audio-at-bristol-hifi-show-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "ATC EL50 Anniversary Loudspeaker Launching At Bristol HiFi Show 2026",
-            "excerpt": "ATC EL50 ANNIVERSARY LOUDSPEAKER LAUNCHES AT BRISTOL HIFI SHOW 2026 ATC has announced the ATC EL50 Anniversary, a new active three-way floorstanding loudspeaker derived from the company\u2019s long-running \u201c50\u201d platform. The model continues ATC\u2019s discrete active tri-amplified approach, with design&hellip;",
-            "date": "February 19, 2026",
-            "href": "./posts/atc-el50-anniversary-loudspeaker-launching-at-bristol-hifi-show-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "iFi NEO Stream 3, iFi ZEN Stream 3 And iFi NEO iDSD 3",
-            "excerpt": "IFI AUDIO NEO STREAM 3, ZEN STREAM 3 AND NEO IDSD 3 ANNOUNCED iFi Audio has introduced a new generation of digital components comprising the iFi NEO Stream 3, iFi ZEN Stream 3 and iFi NEO iDSD 3. The three&hellip;",
-            "date": "February 19, 2026",
-            "href": "./posts/ifi-neo-stream-3-ifi-zen-stream-3-and-ifi-neo-idsd-3/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -524,6 +531,24 @@
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
                 {
+                    "title": "Cadence Distribution Appointed UK Distributor For Revox",
+                    "excerpt": "CADENCE DISTRIBUTION APPOINTED UK DISTRIBUTOR FOR REVOX Cadence Distribution has been appointed as the official UK distributor for Revox, the Swiss manufacturer known for its studio-based analogue and digital audio engineering. As part of the agreement, the Revox B77 MKIII&hellip;",
+                    "date": "March 19, 2026",
+                    "href": "../../posts/cadence-distribution-appointed-uk-distributor-for-revox/index.html"
+                },
+                {
+                    "title": "\u00c9coute TH1 Bluetooth Headphones Launch In The UK",
+                    "excerpt": "\u00c9COUTE TH1 BLUETOOTH HEADPHONES INTRODUCED IN UK BY ELECTROMOD, WITH VALVE-BASED DESIGN The \u00c9coute TH1 Bluetooth headphones have been introduced to the UK market through distributor Electromod, with availability effective immediately. Developed by \u00c9coute Audio, the TH1 are positioned as&hellip;",
+                    "date": "March 19, 2026",
+                    "href": "../../posts/ecoute-th1-bluetooth-headphones-launch-in-the-uk/index.html"
+                },
+                {
+                    "title": "Kog Audio At Audio Show Deluxe 2026",
+                    "excerpt": "KOG AUDIO AT AUDIO SHOW DELUXE 2026 WITH SOULNOTE, T+A AND TRANSROTOR, TELLURIUM Q AND MORE Kog Audio will present two HiFi demonstration systems at Audio Show Deluxe 2026, taking place at Whittlebury Hall on 21st\u201322st March. The UK distributor&hellip;",
+                    "date": "March 19, 2026",
+                    "href": "../../posts/kog-audio-at-audio-show-deluxe-2026/index.html"
+                },
+                {
                     "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
                     "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
                     "date": "March 18, 2026",
@@ -531,7 +556,7 @@
                 },
                 {
                     "title": "Moor Amps At Audio Show Deluxe 2026",
-                    "excerpt": "MOOR AMPS ANGEL 6 AMPLIFIER TO BE DEMONSTRATED AT AUDIO SHOW DELUXE 2026 Moor Amps will be exhibiting at Audio Show Deluxe 2026, where visitors will be able to hear the company\u2019s range of British designed amplification. Demonstrations will take&hellip;",
+                    "excerpt": "MOOR AMPS ANGEL 4 MKII AMPLIFIERS TO BE DEMONSTRATED AT AUDIO SHOW DELUXE 2026 Moor Amps will be exhibiting at Audio Show Deluxe 2026, where visitors will be able to hear the company\u2019s range of British designed amplification. At Audio&hellip;",
                     "date": "March 18, 2026",
                     "href": "../../posts/moor-amps-at-audio-show-deluxe-2026/index.html"
                 },
@@ -942,70 +967,6 @@
                     "excerpt": "HENLEY AUDIO AT BRISTOL HIFI SHOW 2026: WIIM SOUND, ONKYO ICON SERIES, ROTEL 15 SERIES, MUSICAL FIDELITY B1XCD AND PRO-JECT DEBUT REFERENCE 10 Henley Audio will be demonstrating across Rooms 304, 308, 309, 310 and 312 at the Bristol HiFi&hellip;",
                     "date": "February 20, 2026",
                     "href": "../../posts/henley-audio-at-bristol-hifi-show-2026/index.html"
-                },
-                {
-                    "title": "ATC EL50 Anniversary Loudspeaker Launching At Bristol HiFi Show 2026",
-                    "excerpt": "ATC EL50 ANNIVERSARY LOUDSPEAKER LAUNCHES AT BRISTOL HIFI SHOW 2026 ATC has announced the ATC EL50 Anniversary, a new active three-way floorstanding loudspeaker derived from the company\u2019s long-running \u201c50\u201d platform. The model continues ATC\u2019s discrete active tri-amplified approach, with design&hellip;",
-                    "date": "February 19, 2026",
-                    "href": "../../posts/atc-el50-anniversary-loudspeaker-launching-at-bristol-hifi-show-2026/index.html"
-                },
-                {
-                    "title": "iFi NEO Stream 3, iFi ZEN Stream 3 And iFi NEO iDSD 3",
-                    "excerpt": "IFI AUDIO NEO STREAM 3, ZEN STREAM 3 AND NEO IDSD 3 ANNOUNCED iFi Audio has introduced a new generation of digital components comprising the iFi NEO Stream 3, iFi ZEN Stream 3 and iFi NEO iDSD 3. The three&hellip;",
-                    "date": "February 19, 2026",
-                    "href": "../../posts/ifi-neo-stream-3-ifi-zen-stream-3-and-ifi-neo-idsd-3/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Hifi Reviews",
-            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
-            "slug": "hifi-reviews",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
-            "posts": [
-                {
-                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
-                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
-                    "date": "March 18, 2026",
-                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
-                },
-                {
-                    "title": "Tellurium Q Silver III Series Cables",
-                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
-                    "date": "March 17, 2026",
-                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
-                },
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
-                },
-                {
-                    "title": "Final Tonalite True-Wireless Earphones",
-                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
-                    "date": "March 11, 2026",
-                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
-                },
-                {
-                    "title": "Quad Platina Integrated Amplifier",
-                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
-                    "date": "March 6, 2026",
-                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Loudspeakers",
-            "description": "<p>Loudspeaker reviews</p>\n",
-            "slug": "loudspeakers-hifi-reviews",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/loudspeakers-hifi-reviews/",
-            "posts": [
-                {
-                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
-                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
-                    "date": "March 18, 2026",
-                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
                 }
             ]
         },
@@ -1016,8 +977,14 @@
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
                 {
+                    "title": "Kog Audio At Audio Show Deluxe 2026",
+                    "excerpt": "KOG AUDIO AT AUDIO SHOW DELUXE 2026 WITH SOULNOTE, T+A AND TRANSROTOR, TELLURIUM Q AND MORE Kog Audio will present two HiFi demonstration systems at Audio Show Deluxe 2026, taking place at Whittlebury Hall on 21st\u201322st March. The UK distributor&hellip;",
+                    "date": "March 19, 2026",
+                    "href": "../../posts/kog-audio-at-audio-show-deluxe-2026/index.html"
+                },
+                {
                     "title": "Moor Amps At Audio Show Deluxe 2026",
-                    "excerpt": "MOOR AMPS ANGEL 6 AMPLIFIER TO BE DEMONSTRATED AT AUDIO SHOW DELUXE 2026 Moor Amps will be exhibiting at Audio Show Deluxe 2026, where visitors will be able to hear the company\u2019s range of British designed amplification. Demonstrations will take&hellip;",
+                    "excerpt": "MOOR AMPS ANGEL 4 MKII AMPLIFIERS TO BE DEMONSTRATED AT AUDIO SHOW DELUXE 2026 Moor Amps will be exhibiting at Audio Show Deluxe 2026, where visitors will be able to hear the company\u2019s range of British designed amplification. At Audio&hellip;",
                     "date": "March 18, 2026",
                     "href": "../../posts/moor-amps-at-audio-show-deluxe-2026/index.html"
                 },
@@ -1218,12 +1185,58 @@
                     "excerpt": "HENLEY AUDIO AT BRISTOL HIFI SHOW 2026: WIIM SOUND, ONKYO ICON SERIES, ROTEL 15 SERIES, MUSICAL FIDELITY B1XCD AND PRO-JECT DEBUT REFERENCE 10 Henley Audio will be demonstrating across Rooms 304, 308, 309, 310 and 312 at the Bristol HiFi&hellip;",
                     "date": "February 20, 2026",
                     "href": "../../posts/henley-audio-at-bristol-hifi-show-2026/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Hifi Reviews",
+            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
+            "slug": "hifi-reviews",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
+            "posts": [
+                {
+                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
+                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
+                    "date": "March 18, 2026",
+                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
                 },
                 {
-                    "title": "ATC EL50 Anniversary Loudspeaker Launching At Bristol HiFi Show 2026",
-                    "excerpt": "ATC EL50 ANNIVERSARY LOUDSPEAKER LAUNCHES AT BRISTOL HIFI SHOW 2026 ATC has announced the ATC EL50 Anniversary, a new active three-way floorstanding loudspeaker derived from the company\u2019s long-running \u201c50\u201d platform. The model continues ATC\u2019s discrete active tri-amplified approach, with design&hellip;",
-                    "date": "February 19, 2026",
-                    "href": "../../posts/atc-el50-anniversary-loudspeaker-launching-at-bristol-hifi-show-2026/index.html"
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
+                },
+                {
+                    "title": "Pro-Ject Debut Reference 10 Turntable",
+                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
+                    "date": "March 12, 2026",
+                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
+                },
+                {
+                    "title": "Final Tonalite True-Wireless Earphones",
+                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
+                    "date": "March 11, 2026",
+                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
+                },
+                {
+                    "title": "Quad Platina Integrated Amplifier",
+                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
+                    "date": "March 6, 2026",
+                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Loudspeakers",
+            "description": "<p>Loudspeaker reviews</p>\n",
+            "slug": "loudspeakers-hifi-reviews",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/loudspeakers-hifi-reviews/",
+            "posts": [
+                {
+                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
+                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
+                    "date": "March 18, 2026",
+                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
                 }
             ]
         },
