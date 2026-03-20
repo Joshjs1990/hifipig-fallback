@@ -1,9 +1,16 @@
 {
-    "generated_at": "2026-03-19 16:06:05",
+    "generated_at": "2026-03-20 16:05:45",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Quad Platina CDT CD Transport",
+            "excerpt": "QUAD PLATINA CDT EXPANDS PLATINA SERIES QUAD has introduced the Platina CDT CD transport as the latest addition to its flagship Platina range, joining the QUAD Platina Integrated amplifier and Platina Stream network player. Designed to complete the series, the&hellip;",
+            "date": "March 20, 2026",
+            "href": "./posts/quad-platina-cdt-cd-transport/index.html",
+            "type": "post"
+        },
         {
             "title": "Cadence Distribution Appointed UK Distributor For Revox",
             "excerpt": "CADENCE DISTRIBUTION APPOINTED UK DISTRIBUTOR FOR REVOX Cadence Distribution has been appointed as the official UK distributor for Revox, the Swiss manufacturer known for its studio-based analogue and digital audio engineering. As part of the agreement, the Revox B77 MKIII&hellip;",
@@ -514,13 +521,6 @@
             "date": "February 21, 2026",
             "href": "./posts/hifi-pig-cupcakes-at-bristol-hifi-show-2026-on-saturday-morning/index.html",
             "type": "post"
-        },
-        {
-            "title": "Henley Audio At Bristol HiFi Show 2026",
-            "excerpt": "HENLEY AUDIO AT BRISTOL HIFI SHOW 2026: WIIM SOUND, ONKYO ICON SERIES, ROTEL 15 SERIES, MUSICAL FIDELITY B1XCD AND PRO-JECT DEBUT REFERENCE 10 Henley Audio will be demonstrating across Rooms 304, 308, 309, 310 and 312 at the Bristol HiFi&hellip;",
-            "date": "February 20, 2026",
-            "href": "./posts/henley-audio-at-bristol-hifi-show-2026/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -530,6 +530,12 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Quad Platina CDT CD Transport",
+                    "excerpt": "QUAD PLATINA CDT EXPANDS PLATINA SERIES QUAD has introduced the Platina CDT CD transport as the latest addition to its flagship Platina range, joining the QUAD Platina Integrated amplifier and Platina Stream network player. Designed to complete the series, the&hellip;",
+                    "date": "March 20, 2026",
+                    "href": "../../posts/quad-platina-cdt-cd-transport/index.html"
+                },
                 {
                     "title": "Cadence Distribution Appointed UK Distributor For Revox",
                     "excerpt": "CADENCE DISTRIBUTION APPOINTED UK DISTRIBUTOR FOR REVOX Cadence Distribution has been appointed as the official UK distributor for Revox, the Swiss manufacturer known for its studio-based analogue and digital audio engineering. As part of the agreement, the Revox B77 MKIII&hellip;",
@@ -961,12 +967,6 @@
                     "excerpt": "QUEUING EARLY FOR THE BRISTOL HIFI SHOW 2026 \u2013 GRAB A HiFi PiG CUPCAKE ON SATURDAY MORNING Back by popular demand, the first 100 people in the queue on Saturday morning at Bristol HiFi Show 2026 can have a delicious&hellip;",
                     "date": "February 21, 2026",
                     "href": "../../posts/hifi-pig-cupcakes-at-bristol-hifi-show-2026-on-saturday-morning/index.html"
-                },
-                {
-                    "title": "Henley Audio At Bristol HiFi Show 2026",
-                    "excerpt": "HENLEY AUDIO AT BRISTOL HIFI SHOW 2026: WIIM SOUND, ONKYO ICON SERIES, ROTEL 15 SERIES, MUSICAL FIDELITY B1XCD AND PRO-JECT DEBUT REFERENCE 10 Henley Audio will be demonstrating across Rooms 304, 308, 309, 310 and 312 at the Bristol HiFi&hellip;",
-                    "date": "February 20, 2026",
-                    "href": "../../posts/henley-audio-at-bristol-hifi-show-2026/index.html"
                 }
             ]
         },
@@ -1179,12 +1179,6 @@
                     "excerpt": "QUEUING EARLY FOR THE BRISTOL HIFI SHOW 2026 \u2013 GRAB A HiFi PiG CUPCAKE ON SATURDAY MORNING Back by popular demand, the first 100 people in the queue on Saturday morning at Bristol HiFi Show 2026 can have a delicious&hellip;",
                     "date": "February 21, 2026",
                     "href": "../../posts/hifi-pig-cupcakes-at-bristol-hifi-show-2026-on-saturday-morning/index.html"
-                },
-                {
-                    "title": "Henley Audio At Bristol HiFi Show 2026",
-                    "excerpt": "HENLEY AUDIO AT BRISTOL HIFI SHOW 2026: WIIM SOUND, ONKYO ICON SERIES, ROTEL 15 SERIES, MUSICAL FIDELITY B1XCD AND PRO-JECT DEBUT REFERENCE 10 Henley Audio will be demonstrating across Rooms 304, 308, 309, 310 and 312 at the Bristol HiFi&hellip;",
-                    "date": "February 20, 2026",
-                    "href": "../../posts/henley-audio-at-bristol-hifi-show-2026/index.html"
                 }
             ]
         },
