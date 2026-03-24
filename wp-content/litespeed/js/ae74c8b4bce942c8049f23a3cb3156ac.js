@@ -1,4 +1,4 @@
-(function(){"use strict";let DEBUG=!1;window.HIDEYT_VERSION="2.2.20";const iframeInnerHTML=`
+(function(){"use strict";let DEBUG=!1;window.HIDEYT_VERSION="2.2.21";const iframeInnerHTML=`
         <!doctype html>
         <meta charset="utf-8">
         <title>HideYT Embedded Frame</title>
@@ -315,6 +315,6 @@ function updatePlayers(){let ytiframes=Array.from(document.querySelectorAll(`
             iframe[data-src^="http://youtube-nocookie.com/embed/"],
             iframe[data-src^="//youtube-nocookie.com/embed/"]
 
-        `));ytiframes=ytiframes.filter(elem=>{return elem.closest(".rs-background-video-layer")===null});let newFrames=arrayDiff(ytiframes,iframeList);iframeList=arrayUnique(iframeList.concat(newFrames));for(let ytiframe of newFrames){initPlayer(ytiframe)}}
+        `));ytiframes=ytiframes.filter(elem=>{if(elem.closest(".rs-background-video-layer")!==null)return!1;let id=(elem.id||"").toLowerCase();let isSliderRevolutionVideo=id.startsWith("sr")&&id.endsWith("video");return!isSliderRevolutionVideo});let newFrames=arrayDiff(ytiframes,iframeList);iframeList=arrayUnique(iframeList.concat(newFrames));for(let ytiframe of newFrames){initPlayer(ytiframe)}}
 updatePlayers();setInterval(updatePlayers,100)})()
 ;
