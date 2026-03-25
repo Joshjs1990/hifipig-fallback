@@ -1,9 +1,37 @@
 {
-    "generated_at": "2026-03-24 16:05:59",
+    "generated_at": "2026-03-25 16:06:35",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Pro-Ject VC-E Mini Record Cleaner",
+            "excerpt": "PRO-JECT VC-E MINI INTRODUCED AS SPACE-SAVING RECORD CLEANER Pro-Ject has announced the Pro-Ject VC-E Mini Record Cleaner, a compact vacuum-assisted record cleaning machine designed to sit alongside its existing VC-E2 and VC-E3 models. The new unit maintains a 30 RPM&hellip;",
+            "date": "March 25, 2026",
+            "href": "./posts/pro-ject-vc-e-mini-record-cleaner/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Jones And Cerreta Floorstanding Loudspeaker To Debut At AXPONA 2026",
+            "excerpt": "JONES AND CERRETA A NEW LOUDSPEAKER BRAND FROM ANDREW JONES A new loudspeaker brand, Jones and Cerreta, is set to make its public debut at AXPONA 2026. Based in Los Angeles, the company has been founded by loudspeaker designer Andrew&hellip;",
+            "date": "March 25, 2026",
+            "href": "./posts/jones-and-cerreta-floorstanding-loudspeaker-to-debut-at-axpona-2026/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Rega Planar 6 RS Edition Turntable",
+            "excerpt": "REGA PLANAR 6 RS EDITION TURNTABLE ANNOUNCED WITH PLANAR 8 TECHNOLOGY INFLUENCE Following its preview at the Bristol HiFi Show 2026, the Rega Planar 6 RS Edition is now available to order, with initial units expected to reach UK dealers&hellip;",
+            "date": "March 25, 2026",
+            "href": "./posts/rega-planar-6-rs-edition-turntable/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Audio Show Deluxe 2026 Report",
+            "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
+            "date": "March 24, 2026",
+            "href": "./posts/audio-show-deluxe-2026-report/index.html",
+            "type": "post"
+        },
         {
             "title": "Quad Platina CDT CD Transport",
             "excerpt": "QUAD PLATINA CDT EXPANDS PLATINA SERIES QUAD has introduced the Platina CDT CD transport as the latest addition to its flagship Platina range, joining the QUAD Platina Integrated amplifier and Platina Stream network player. Designed to complete the series, the&hellip;",
@@ -479,13 +507,6 @@
             "date": "February 26, 2026",
             "href": "./posts/rega-aos-mc-moving-coil-phono-stage/index.html",
             "type": "post"
-        },
-        {
-            "title": "Totaldac Balloon Speaker",
-            "excerpt": "TOTALDAC BALLOON SPEAKER LAUNCHED BY FRENCH HiFi BRAND French HiFi brand Totaldac has announced the Totaldac Balloon speaker, a passive, spherical loudspeaker designed as a full-bandwidth point source. The Totaldac Balloon Speaker is intended for both small and larger listening&hellip;",
-            "date": "February 25, 2026",
-            "href": "./posts/totaldac-balloon-speaker/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -495,6 +516,30 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Pro-Ject VC-E Mini Record Cleaner",
+                    "excerpt": "PRO-JECT VC-E MINI INTRODUCED AS SPACE-SAVING RECORD CLEANER Pro-Ject has announced the Pro-Ject VC-E Mini Record Cleaner, a compact vacuum-assisted record cleaning machine designed to sit alongside its existing VC-E2 and VC-E3 models. The new unit maintains a 30 RPM&hellip;",
+                    "date": "March 25, 2026",
+                    "href": "../../posts/pro-ject-vc-e-mini-record-cleaner/index.html"
+                },
+                {
+                    "title": "Jones And Cerreta Floorstanding Loudspeaker To Debut At AXPONA 2026",
+                    "excerpt": "JONES AND CERRETA A NEW LOUDSPEAKER BRAND FROM ANDREW JONES A new loudspeaker brand, Jones and Cerreta, is set to make its public debut at AXPONA 2026. Based in Los Angeles, the company has been founded by loudspeaker designer Andrew&hellip;",
+                    "date": "March 25, 2026",
+                    "href": "../../posts/jones-and-cerreta-floorstanding-loudspeaker-to-debut-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Rega Planar 6 RS Edition Turntable",
+                    "excerpt": "REGA PLANAR 6 RS EDITION TURNTABLE ANNOUNCED WITH PLANAR 8 TECHNOLOGY INFLUENCE Following its preview at the Bristol HiFi Show 2026, the Rega Planar 6 RS Edition is now available to order, with initial units expected to reach UK dealers&hellip;",
+                    "date": "March 25, 2026",
+                    "href": "../../posts/rega-planar-6-rs-edition-turntable/index.html"
+                },
+                {
+                    "title": "Audio Show Deluxe 2026 Report",
+                    "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
+                    "date": "March 24, 2026",
+                    "href": "../../posts/audio-show-deluxe-2026-report/index.html"
+                },
                 {
                     "title": "Quad Platina CDT CD Transport",
                     "excerpt": "QUAD PLATINA CDT EXPANDS PLATINA SERIES QUAD has introduced the Platina CDT CD transport as the latest addition to its flagship Platina range, joining the QUAD Platina Integrated amplifier and Platina Stream network player. Designed to complete the series, the&hellip;",
@@ -896,12 +941,6 @@
                     "excerpt": "REGA AOS MC MOVING COIL PHONO STAGE LAUNCH CONFIRMED Rega has announced the official release of the Rega AOS MC moving coil phono stage, following its preview at the Bristol HiFi Show 2026. The Rega AOS MC Moving Coil Phono&hellip;",
                     "date": "February 26, 2026",
                     "href": "../../posts/rega-aos-mc-moving-coil-phono-stage/index.html"
-                },
-                {
-                    "title": "Totaldac Balloon Speaker",
-                    "excerpt": "TOTALDAC BALLOON SPEAKER LAUNCHED BY FRENCH HiFi BRAND French HiFi brand Totaldac has announced the Totaldac Balloon speaker, a passive, spherical loudspeaker designed as a full-bandwidth point source. The Totaldac Balloon Speaker is intended for both small and larger listening&hellip;",
-                    "date": "February 25, 2026",
-                    "href": "../../posts/totaldac-balloon-speaker/index.html"
                 }
             ]
         },
@@ -911,6 +950,18 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Jones And Cerreta Floorstanding Loudspeaker To Debut At AXPONA 2026",
+                    "excerpt": "JONES AND CERRETA A NEW LOUDSPEAKER BRAND FROM ANDREW JONES A new loudspeaker brand, Jones and Cerreta, is set to make its public debut at AXPONA 2026. Based in Los Angeles, the company has been founded by loudspeaker designer Andrew&hellip;",
+                    "date": "March 25, 2026",
+                    "href": "../../posts/jones-and-cerreta-floorstanding-loudspeaker-to-debut-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Audio Show Deluxe 2026 Report",
+                    "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
+                    "date": "March 24, 2026",
+                    "href": "../../posts/audio-show-deluxe-2026-report/index.html"
+                },
                 {
                     "title": "Kog Audio At Audio Show Deluxe 2026",
                     "excerpt": "KOG AUDIO AT AUDIO SHOW DELUXE 2026 WITH SOULNOTE, T+A AND TRANSROTOR, TELLURIUM Q AND MORE Kog Audio will present two HiFi demonstration systems at Audio Show Deluxe 2026, taking place at Whittlebury Hall on 21st\u201322st March. The UK distributor&hellip;",
@@ -1094,6 +1145,26 @@
             ]
         },
         {
+            "name": "Industry Insider",
+            "description": "<p>The front page of Hifi Pig&#8217;s Industry Insider where you&#8217;ll find hifi interviews, hifi show reports, factory visits and more! </p>\n",
+            "slug": "industry-insider",
+            "source_url": "https://www.hifipig.com/category/industry-insider/",
+            "posts": [
+                {
+                    "title": "Audio Show Deluxe 2026 Report",
+                    "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
+                    "date": "March 24, 2026",
+                    "href": "../../posts/audio-show-deluxe-2026-report/index.html"
+                },
+                {
+                    "title": "High Performance Audio Show Denmark 2026 Report",
+                    "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
+                    "date": "March 16, 2026",
+                    "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
+                }
+            ]
+        },
+        {
             "name": "Hifi Reviews",
             "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
             "slug": "hifi-reviews",
@@ -1156,20 +1227,6 @@
                     "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
                     "date": "March 17, 2026",
                     "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Industry Insider",
-            "description": "<p>The front page of Hifi Pig&#8217;s Industry Insider where you&#8217;ll find hifi interviews, hifi show reports, factory visits and more! </p>\n",
-            "slug": "industry-insider",
-            "source_url": "https://www.hifipig.com/category/industry-insider/",
-            "posts": [
-                {
-                    "title": "High Performance Audio Show Denmark 2026 Report",
-                    "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
-                    "date": "March 16, 2026",
-                    "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
                 }
             ]
         },
