@@ -1,9 +1,23 @@
 {
-    "generated_at": "2026-03-25 16:06:35",
+    "generated_at": "2026-03-26 16:06:06",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "B\u00f8rresen Center3 Centre Channel Loudspeaker",
+            "excerpt": "B\u00d8RRESEN CENTER3 LAUNCHES AS FIRST DEDICATED CENTRE CHANNEL FROM AUDIO GROUP DENMARK Audio Group Denmark has announced the B\u00f8rresen Center3, the company\u2019s first loudspeaker designed specifically for centre-channel duties in home cinema systems. The model is intended to handle dialogue&hellip;",
+            "date": "March 26, 2026",
+            "href": "./posts/borresen-center3-centre-channel-loudspeaker/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Ophidian SKYE Floorstanding Loudspeaker",
+            "excerpt": "OPHIDIAN SKYE FLOORSTANDING LOUDSPEAKER LAUNCHED British manufacturer Ophidian has introduced the Ophidian SKYE, a new floorstanding loudspeaker designed and assembled in the UK. The model combines traditional cabinet styling with modern acoustic engineering and joins the company\u2019s S-series alongside the&hellip;",
+            "date": "March 26, 2026",
+            "href": "./posts/ophidian-skye-floorstanding-loudspeaker/index.html",
+            "type": "post"
+        },
         {
             "title": "Pro-Ject VC-E Mini Record Cleaner",
             "excerpt": "PRO-JECT VC-E MINI INTRODUCED AS SPACE-SAVING RECORD CLEANER Pro-Ject has announced the Pro-Ject VC-E Mini Record Cleaner, a compact vacuum-assisted record cleaning machine designed to sit alongside its existing VC-E2 and VC-E3 models. The new unit maintains a 30 RPM&hellip;",
@@ -486,27 +500,6 @@
             "date": "February 26, 2026",
             "href": "./posts/definitive-audio-at-audio-show-deluxe-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "Nagra Compact Player",
-            "excerpt": "AUDIO TECHNOLOGY SWITZERLAND SA NAGRA COMPACT PLAYER ANNOUNCED IN SWITZERLAND The Nagra Compact Player is a new digital source component designed to bring the company\u2019s approach to audio reproduction into a more compact and accessible format. The Swiss-made Nagra Compact&hellip;",
-            "date": "February 26, 2026",
-            "href": "./posts/nagra-compact-player/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Sound Design Distribution At Audio Show Deluxe 2026",
-            "excerpt": "SOUND DESIGN DISTRIBUTION WITH HALCRO, VIVID AUDIO, GRIMM AUDIO, ONKK AND CHARISMA AUDIO AT AUDIO SHOW DELUXE 2026 Sound Design Distribution will be exhibiting at Audio Show Deluxe 2026, bringing a curated selection of brands that focus on engineering-led HiFi&hellip;",
-            "date": "February 26, 2026",
-            "href": "./posts/sound-design-distribution-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Rega AOS MC Moving Coil Phono Stage",
-            "excerpt": "REGA AOS MC MOVING COIL PHONO STAGE LAUNCH CONFIRMED Rega has announced the official release of the Rega AOS MC moving coil phono stage, following its preview at the Bristol HiFi Show 2026. The Rega AOS MC Moving Coil Phono&hellip;",
-            "date": "February 26, 2026",
-            "href": "./posts/rega-aos-mc-moving-coil-phono-stage/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -516,6 +509,18 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "B\u00f8rresen Center3 Centre Channel Loudspeaker",
+                    "excerpt": "B\u00d8RRESEN CENTER3 LAUNCHES AS FIRST DEDICATED CENTRE CHANNEL FROM AUDIO GROUP DENMARK Audio Group Denmark has announced the B\u00f8rresen Center3, the company\u2019s first loudspeaker designed specifically for centre-channel duties in home cinema systems. The model is intended to handle dialogue&hellip;",
+                    "date": "March 26, 2026",
+                    "href": "../../posts/borresen-center3-centre-channel-loudspeaker/index.html"
+                },
+                {
+                    "title": "Ophidian SKYE Floorstanding Loudspeaker",
+                    "excerpt": "OPHIDIAN SKYE FLOORSTANDING LOUDSPEAKER LAUNCHED British manufacturer Ophidian has introduced the Ophidian SKYE, a new floorstanding loudspeaker designed and assembled in the UK. The model combines traditional cabinet styling with modern acoustic engineering and joins the company\u2019s S-series alongside the&hellip;",
+                    "date": "March 26, 2026",
+                    "href": "../../posts/ophidian-skye-floorstanding-loudspeaker/index.html"
+                },
                 {
                     "title": "Pro-Ject VC-E Mini Record Cleaner",
                     "excerpt": "PRO-JECT VC-E MINI INTRODUCED AS SPACE-SAVING RECORD CLEANER Pro-Ject has announced the Pro-Ject VC-E Mini Record Cleaner, a compact vacuum-assisted record cleaning machine designed to sit alongside its existing VC-E2 and VC-E3 models. The new unit maintains a 30 RPM&hellip;",
@@ -923,24 +928,6 @@
                     "excerpt": "DEFINITIVE AUDIO SYSTEM AT AUDIO SHOW DELUXE 2026 OVERVIEW Definitive Audio will present a complete HiFi system in the Chapel Suite at Audio Show Deluxe 2026. The exhibitor has assembled a setup based on a selection of established high-end brands,&hellip;",
                     "date": "February 26, 2026",
                     "href": "../../posts/definitive-audio-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Nagra Compact Player",
-                    "excerpt": "AUDIO TECHNOLOGY SWITZERLAND SA NAGRA COMPACT PLAYER ANNOUNCED IN SWITZERLAND The Nagra Compact Player is a new digital source component designed to bring the company\u2019s approach to audio reproduction into a more compact and accessible format. The Swiss-made Nagra Compact&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/nagra-compact-player/index.html"
-                },
-                {
-                    "title": "Sound Design Distribution At Audio Show Deluxe 2026",
-                    "excerpt": "SOUND DESIGN DISTRIBUTION WITH HALCRO, VIVID AUDIO, GRIMM AUDIO, ONKK AND CHARISMA AUDIO AT AUDIO SHOW DELUXE 2026 Sound Design Distribution will be exhibiting at Audio Show Deluxe 2026, bringing a curated selection of brands that focus on engineering-led HiFi&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/sound-design-distribution-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Rega AOS MC Moving Coil Phono Stage",
-                    "excerpt": "REGA AOS MC MOVING COIL PHONO STAGE LAUNCH CONFIRMED Rega has announced the official release of the Rega AOS MC moving coil phono stage, following its preview at the Bristol HiFi Show 2026. The Rega AOS MC Moving Coil Phono&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/rega-aos-mc-moving-coil-phono-stage/index.html"
                 }
             ]
         },
@@ -1135,12 +1122,6 @@
                     "excerpt": "DEFINITIVE AUDIO SYSTEM AT AUDIO SHOW DELUXE 2026 OVERVIEW Definitive Audio will present a complete HiFi system in the Chapel Suite at Audio Show Deluxe 2026. The exhibitor has assembled a setup based on a selection of established high-end brands,&hellip;",
                     "date": "February 26, 2026",
                     "href": "../../posts/definitive-audio-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Sound Design Distribution At Audio Show Deluxe 2026",
-                    "excerpt": "SOUND DESIGN DISTRIBUTION WITH HALCRO, VIVID AUDIO, GRIMM AUDIO, ONKK AND CHARISMA AUDIO AT AUDIO SHOW DELUXE 2026 Sound Design Distribution will be exhibiting at Audio Show Deluxe 2026, bringing a curated selection of brands that focus on engineering-led HiFi&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/sound-design-distribution-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         },
