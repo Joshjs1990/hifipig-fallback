@@ -1,9 +1,16 @@
 {
-    "generated_at": "2026-03-26 16:06:06",
+    "generated_at": "2026-03-27 16:05:30",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Oslo HiFi Show 2026 Report",
+            "excerpt": "JON LUMB CONTINUES HIS SCANDI ADVENTURE AT THE OSLO HiFi SHOW 2026 HiFi PiG\u2019s Jon has been enjoying a Scandi-Fi adventure, following on from the High Performance Audio Show 2026 in Denmark, he headed to Norway, for the Oslo HiFi&hellip;",
+            "date": "March 27, 2026",
+            "href": "./posts/oslo-hifi-show-2026-report/index.html",
+            "type": "post"
+        },
         {
             "title": "B\u00f8rresen Center3 Centre Channel Loudspeaker",
             "excerpt": "B\u00d8RRESEN CENTER3 LAUNCHES AS FIRST DEDICATED CENTRE CHANNEL FROM AUDIO GROUP DENMARK Audio Group Denmark has announced the B\u00f8rresen Center3, the company\u2019s first loudspeaker designed specifically for centre-channel duties in home cinema systems. The model is intended to handle dialogue&hellip;",
@@ -444,62 +451,6 @@
             "date": "February 28, 2026",
             "href": "./posts/signature-audio-systems-at-audio-show-deluxe-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "Vertere SOLO Moving Coil Cartridge And Vertere LunA Linear DC Power Supply",
-            "excerpt": "VERTERE SOLO MOVING COIL CARTRIDGE AND VERTERE LUNA LINEAR DC POWER SUPPLY LAUNCHED British HiFi brand Vertere has launched the new Vertere SOLO Moving Coil Cartridge and Vertere LunA Linear DC Power Supply. Vertere has announced two new products for&hellip;",
-            "date": "February 27, 2026",
-            "href": "./posts/vertere-solo-moving-coil-cartridge-and-vertere-luna-linear-dc-power-supply/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Mr SME Tonearm Service And Repair",
-            "excerpt": "MR SME TONEARM SERVICE AND REPAIR LAUNCHED BY FORMER SME ENGINEER After 38 years with British HiFi brand SME Ltd, long-serving engineer Brian Laker has launched an independent company, Mr SME, dedicated to servicing and repairing SME pickup arms. Laker&hellip;",
-            "date": "February 27, 2026",
-            "href": "./posts/mr-sme-tonearm-service-and-repair/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Absolute Sounds At Audio Show Deluxe 2026",
-            "excerpt": "ABSOLUTE SOUNDS AT AUDIO SHOW DELUXE 2026 DEBUT NAGRA PREAMP II-S AND DAN D\u2019AGOSTINO MOMENTUM Z MONOBLOCK AMPLIFIER Absolute Sounds returns to Audio Show Deluxe 2026 with four demonstration rooms at Whittlebury Park, presenting a broad cross-section of high-end HiFi&hellip;",
-            "date": "February 27, 2026",
-            "href": "./posts/absolute-sounds-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Astell&amp;Kern PD20 Portable Digital Audio Player",
-            "excerpt": "ASTELL&amp;KERN PD20 DIGITAL AUDIO PLAYER WITH PERSONALISED HEARING TUNING LAUNCHED Astell&amp;Kern has announced the Astell&amp;Kern PD20, a portable digital audio player designed to tailor playback to the listener\u2019s individual hearing profile. Developed with Audiodo, the PD20 uses a Personal Sound&hellip;",
-            "date": "February 27, 2026",
-            "href": "./posts/astellkern-pd20-portable-digital-audio-player/index.html",
-            "type": "post"
-        },
-        {
-            "title": "MW Stands Cyntaf Equipment Support System Debut At Audio Show Deluxe 2026",
-            "excerpt": "MW STANDS CYNTAF EQUIPMENT SUPPORT SYSTEM UK DEBUT MW Stands will make its official UK debut at Audio Show Deluxe 2026, introducing the MW Stands Cyntaf Equipment Support System to a British audience for the first time. The Welsh manufacturer&hellip;",
-            "date": "February 27, 2026",
-            "href": "./posts/mw-stands-cyntaf-equipment-support-system-debut-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Qobuz AI Charter And AI Detection System",
-            "excerpt": "QOBUZ AI CHARTER AND AI DETECTION SYSTEM ANNOUNCED TO ADDRESS AI-GENERATED MUSIC French streaming and download platform Qobuz has announced a set of measures aimed at identifying and managing AI-generated music on its service. The move follows the publication of&hellip;",
-            "date": "February 26, 2026",
-            "href": "./posts/qobuz-ai-charter-and-ai-detection-system/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Final DX4000CL Closed Back Headphones",
-            "excerpt": "FINAL DX4000CL CLOSED-BACK HEADPHONES JOIN FINAL DX SERIES LINE-UP Final has introduced the Final DX4000CL closed-back headphones, expanding its DX series between the existing DX3000CL and flagship DX6000CL models. The new model is available from today. FINAL DX4000CL CLOSED BACK&hellip;",
-            "date": "February 26, 2026",
-            "href": "./posts/final-dx4000cl-closed-back-headphones/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Definitive Audio At Audio Show Deluxe 2026",
-            "excerpt": "DEFINITIVE AUDIO SYSTEM AT AUDIO SHOW DELUXE 2026 OVERVIEW Definitive Audio will present a complete HiFi system in the Chapel Suite at Audio Show Deluxe 2026. The exhibitor has assembled a setup based on a selection of established high-end brands,&hellip;",
-            "date": "February 26, 2026",
-            "href": "./posts/definitive-audio-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -509,6 +460,12 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Oslo HiFi Show 2026 Report",
+                    "excerpt": "JON LUMB CONTINUES HIS SCANDI ADVENTURE AT THE OSLO HiFi SHOW 2026 HiFi PiG\u2019s Jon has been enjoying a Scandi-Fi adventure, following on from the High Performance Audio Show 2026 in Denmark, he headed to Norway, for the Oslo HiFi&hellip;",
+                    "date": "March 27, 2026",
+                    "href": "../../posts/oslo-hifi-show-2026-report/index.html"
+                },
                 {
                     "title": "B\u00f8rresen Center3 Centre Channel Loudspeaker",
                     "excerpt": "B\u00d8RRESEN CENTER3 LAUNCHES AS FIRST DEDICATED CENTRE CHANNEL FROM AUDIO GROUP DENMARK Audio Group Denmark has announced the B\u00f8rresen Center3, the company\u2019s first loudspeaker designed specifically for centre-channel duties in home cinema systems. The model is intended to handle dialogue&hellip;",
@@ -880,54 +837,6 @@
                     "excerpt": "SIGNATURE AUDIO SYSTEMS WITH AAVIK U-188 AND AXXESS FORT\u00c9 2 AT AUDIO SHOW DELUXE 2026 Signature Audio Systems will be exhibiting at Audio Show Deluxe 2026 with a system centred on components from Audio Group Denmark, supported by a range&hellip;",
                     "date": "February 28, 2026",
                     "href": "../../posts/signature-audio-systems-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Vertere SOLO Moving Coil Cartridge And Vertere LunA Linear DC Power Supply",
-                    "excerpt": "VERTERE SOLO MOVING COIL CARTRIDGE AND VERTERE LUNA LINEAR DC POWER SUPPLY LAUNCHED British HiFi brand Vertere has launched the new Vertere SOLO Moving Coil Cartridge and Vertere LunA Linear DC Power Supply. Vertere has announced two new products for&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/vertere-solo-moving-coil-cartridge-and-vertere-luna-linear-dc-power-supply/index.html"
-                },
-                {
-                    "title": "Mr SME Tonearm Service And Repair",
-                    "excerpt": "MR SME TONEARM SERVICE AND REPAIR LAUNCHED BY FORMER SME ENGINEER After 38 years with British HiFi brand SME Ltd, long-serving engineer Brian Laker has launched an independent company, Mr SME, dedicated to servicing and repairing SME pickup arms. Laker&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/mr-sme-tonearm-service-and-repair/index.html"
-                },
-                {
-                    "title": "Absolute Sounds At Audio Show Deluxe 2026",
-                    "excerpt": "ABSOLUTE SOUNDS AT AUDIO SHOW DELUXE 2026 DEBUT NAGRA PREAMP II-S AND DAN D\u2019AGOSTINO MOMENTUM Z MONOBLOCK AMPLIFIER Absolute Sounds returns to Audio Show Deluxe 2026 with four demonstration rooms at Whittlebury Park, presenting a broad cross-section of high-end HiFi&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/absolute-sounds-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Astell&amp;Kern PD20 Portable Digital Audio Player",
-                    "excerpt": "ASTELL&amp;KERN PD20 DIGITAL AUDIO PLAYER WITH PERSONALISED HEARING TUNING LAUNCHED Astell&amp;Kern has announced the Astell&amp;Kern PD20, a portable digital audio player designed to tailor playback to the listener\u2019s individual hearing profile. Developed with Audiodo, the PD20 uses a Personal Sound&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/astellkern-pd20-portable-digital-audio-player/index.html"
-                },
-                {
-                    "title": "MW Stands Cyntaf Equipment Support System Debut At Audio Show Deluxe 2026",
-                    "excerpt": "MW STANDS CYNTAF EQUIPMENT SUPPORT SYSTEM UK DEBUT MW Stands will make its official UK debut at Audio Show Deluxe 2026, introducing the MW Stands Cyntaf Equipment Support System to a British audience for the first time. The Welsh manufacturer&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/mw-stands-cyntaf-equipment-support-system-debut-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Qobuz AI Charter And AI Detection System",
-                    "excerpt": "QOBUZ AI CHARTER AND AI DETECTION SYSTEM ANNOUNCED TO ADDRESS AI-GENERATED MUSIC French streaming and download platform Qobuz has announced a set of measures aimed at identifying and managing AI-generated music on its service. The move follows the publication of&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/qobuz-ai-charter-and-ai-detection-system/index.html"
-                },
-                {
-                    "title": "Final DX4000CL Closed Back Headphones",
-                    "excerpt": "FINAL DX4000CL CLOSED-BACK HEADPHONES JOIN FINAL DX SERIES LINE-UP Final has introduced the Final DX4000CL closed-back headphones, expanding its DX series between the existing DX3000CL and flagship DX6000CL models. The new model is available from today. FINAL DX4000CL CLOSED BACK&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/final-dx4000cl-closed-back-headphones/index.html"
-                },
-                {
-                    "title": "Definitive Audio At Audio Show Deluxe 2026",
-                    "excerpt": "DEFINITIVE AUDIO SYSTEM AT AUDIO SHOW DELUXE 2026 OVERVIEW Definitive Audio will present a complete HiFi system in the Chapel Suite at Audio Show Deluxe 2026. The exhibitor has assembled a setup based on a selection of established high-end brands,&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/definitive-audio-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         },
@@ -937,6 +846,12 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Oslo HiFi Show 2026 Report",
+                    "excerpt": "JON LUMB CONTINUES HIS SCANDI ADVENTURE AT THE OSLO HiFi SHOW 2026 HiFi PiG\u2019s Jon has been enjoying a Scandi-Fi adventure, following on from the High Performance Audio Show 2026 in Denmark, he headed to Norway, for the Oslo HiFi&hellip;",
+                    "date": "March 27, 2026",
+                    "href": "../../posts/oslo-hifi-show-2026-report/index.html"
+                },
                 {
                     "title": "Jones And Cerreta Floorstanding Loudspeaker To Debut At AXPONA 2026",
                     "excerpt": "JONES AND CERRETA A NEW LOUDSPEAKER BRAND FROM ANDREW JONES A new loudspeaker brand, Jones and Cerreta, is set to make its public debut at AXPONA 2026. Based in Los Angeles, the company has been founded by loudspeaker designer Andrew&hellip;",
@@ -1104,24 +1019,6 @@
                     "excerpt": "SIGNATURE AUDIO SYSTEMS WITH AAVIK U-188 AND AXXESS FORT\u00c9 2 AT AUDIO SHOW DELUXE 2026 Signature Audio Systems will be exhibiting at Audio Show Deluxe 2026 with a system centred on components from Audio Group Denmark, supported by a range&hellip;",
                     "date": "February 28, 2026",
                     "href": "../../posts/signature-audio-systems-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Absolute Sounds At Audio Show Deluxe 2026",
-                    "excerpt": "ABSOLUTE SOUNDS AT AUDIO SHOW DELUXE 2026 DEBUT NAGRA PREAMP II-S AND DAN D\u2019AGOSTINO MOMENTUM Z MONOBLOCK AMPLIFIER Absolute Sounds returns to Audio Show Deluxe 2026 with four demonstration rooms at Whittlebury Park, presenting a broad cross-section of high-end HiFi&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/absolute-sounds-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "MW Stands Cyntaf Equipment Support System Debut At Audio Show Deluxe 2026",
-                    "excerpt": "MW STANDS CYNTAF EQUIPMENT SUPPORT SYSTEM UK DEBUT MW Stands will make its official UK debut at Audio Show Deluxe 2026, introducing the MW Stands Cyntaf Equipment Support System to a British audience for the first time. The Welsh manufacturer&hellip;",
-                    "date": "February 27, 2026",
-                    "href": "../../posts/mw-stands-cyntaf-equipment-support-system-debut-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Definitive Audio At Audio Show Deluxe 2026",
-                    "excerpt": "DEFINITIVE AUDIO SYSTEM AT AUDIO SHOW DELUXE 2026 OVERVIEW Definitive Audio will present a complete HiFi system in the Chapel Suite at Audio Show Deluxe 2026. The exhibitor has assembled a setup based on a selection of established high-end brands,&hellip;",
-                    "date": "February 26, 2026",
-                    "href": "../../posts/definitive-audio-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         },
@@ -1131,6 +1028,12 @@
             "slug": "industry-insider",
             "source_url": "https://www.hifipig.com/category/industry-insider/",
             "posts": [
+                {
+                    "title": "Oslo HiFi Show 2026 Report",
+                    "excerpt": "JON LUMB CONTINUES HIS SCANDI ADVENTURE AT THE OSLO HiFi SHOW 2026 HiFi PiG\u2019s Jon has been enjoying a Scandi-Fi adventure, following on from the High Performance Audio Show 2026 in Denmark, he headed to Norway, for the Oslo HiFi&hellip;",
+                    "date": "March 27, 2026",
+                    "href": "../../posts/oslo-hifi-show-2026-report/index.html"
+                },
                 {
                     "title": "Audio Show Deluxe 2026 Report",
                     "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
