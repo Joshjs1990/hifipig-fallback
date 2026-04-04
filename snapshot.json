@@ -1,9 +1,23 @@
 {
-    "generated_at": "2026-04-03 11:00:29",
+    "generated_at": "2026-04-04 18:35:23",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Rhythm Distribution At AXPONA 2026",
+            "excerpt": "RHYTHM DISTRIBUTION AT AXPONA 2026 WITH GOLDMUND TELOS 8800 MONOBLOCK AMPLIFIER AND MORE Rhythm Distribution will introduce several AXPONA debuts with exhibits in both the Prosperity Room and Utopia Lounge on the second floor. The distributor is presenting a number&hellip;",
+            "date": "April 3, 2026",
+            "href": "./posts/rhythm-distribution-at-axpona-2026/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Naim For Mulliner System In Bentley Virtuoso Collection",
+            "excerpt": "NAIM FOR MULLINER SYSTEM IN BENTLEY VIRTUOSO COLLECTION INTRODUCED British HiFi brand Naim has announced a new in-car audio system developed in collaboration with Bentley\u2019s Mulliner division, forming part of the Bentley Virtuoso Collection. The Naim for Mulliner system builds&hellip;",
+            "date": "April 3, 2026",
+            "href": "./posts/naim-for-mulliner-system-in-bentley-virtuoso-collection/index.html",
+            "type": "post"
+        },
         {
             "title": "Mola Mola Ossetra Monobloc Amplifier",
             "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
@@ -486,70 +500,27 @@
             "date": "March 5, 2026",
             "href": "./posts/o-audio-loudspeakers-available-in-the-uk/index.html",
             "type": "post"
-        },
-        {
-            "title": "Grell OAE2 Open-Back Headphones",
-            "excerpt": "GRELL OAE2 OPEN-BACK HEADPHONES ANNOUNCED FOR INTERNATIONAL RELEASE Grell Audio has confirmed wider international availability of the Grell OAE2 open-back headphones, developed by Axel Grell. Following an initial launch in Germany, the model will roll out across the US, UK&hellip;",
-            "date": "March 4, 2026",
-            "href": "./posts/grell-oae2-open-back-headphones/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Boyer Audio At Audio Show Deluxe 2026",
-            "excerpt": "BOYER AUDIO CONFIRMS INTERNATIONAL LINE-UP AT AUDIO SHOW DELUXE 2026 Boyer Audio has outlined its line-up for Audio Show Deluxe 2026, bringing together a series of UK premieres and established reference-level systems. The exhibitor\u2019s rooms will host several international brands,&hellip;",
-            "date": "March 4, 2026",
-            "href": "./posts/boyer-audio-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Harmony HiFi Distributing Pylon Audio Loudspeakers",
-            "excerpt": "HARMONY HIFI DISTRIBUTION AND PYLON AUDIO LOUDSPEAKERS AGREEMENT ANNOUNCED FOR UK MARKET Harmony HiFi Distribution has announced an exclusive distribution agreement with Pylon Audio, bringing the Polish manufacturer\u2019s full loudspeaker portfolio to the UK market. The agreement covers the complete&hellip;",
-            "date": "March 3, 2026",
-            "href": "./posts/harmony-hifi-distributing-pylon-audio-loudspeakers/index.html",
-            "type": "post"
-        },
-        {
-            "title": "B\u00f8rresen M8 And Aavik M-880 Launch Event Video",
-            "excerpt": "AUDIO GROUP DENMARK RELEASE THE VIDEO FROM THE LAUNCH OF THE BORRESEN M8 AND AAVIK M-880 https://youtu.be/ezQmqRi2F_g?si=8BX-_5o-Akm5c1uo Audio Group Denmark has released the video from their launch event of the B\u00f8rresen M8 loudspeakers and Aavik M-880 amplifiers...feturing HiFi PiG's Stu&hellip;",
-            "date": "March 3, 2026",
-            "href": "./posts/borresen-m8-and-aavik-m-880-launch-event-video/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Magico S7 2026 Loudspeaker",
-            "excerpt": "MAGICO S7 2026 CONCLUDES THE UPDATED S SERIES Magico has announced the Magico S7 2026, the final model in the updates of its long-running S Series loudspeaker range. The five-driver, three-way Magico S7 2026 floorstander weighs 384lbs (174kg) and is&hellip;",
-            "date": "March 3, 2026",
-            "href": "./posts/magico-s7-2026-loudspeaker/index.html",
-            "type": "post"
         }
     ],
     "categories": [
-        {
-            "name": "Amplifiers",
-            "description": "<p>Amplifier and Pre amplifier Hifi reviews</p>\n",
-            "slug": "amps-pre-amps",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/amps-pre-amps/",
-            "posts": [
-                {
-                    "title": "Mola Mola Ossetra Monobloc Amplifier",
-                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
-                    "date": "April 3, 2026",
-                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
-                },
-                {
-                    "title": "Quad Platina Integrated Amplifier",
-                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
-                    "date": "March 6, 2026",
-                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
-                }
-            ]
-        },
         {
             "name": "Hifi News",
             "description": "",
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Rhythm Distribution At AXPONA 2026",
+                    "excerpt": "RHYTHM DISTRIBUTION AT AXPONA 2026 WITH GOLDMUND TELOS 8800 MONOBLOCK AMPLIFIER AND MORE Rhythm Distribution will introduce several AXPONA debuts with exhibits in both the Prosperity Room and Utopia Lounge on the second floor. The distributor is presenting a number&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/rhythm-distribution-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Naim For Mulliner System In Bentley Virtuoso Collection",
+                    "excerpt": "NAIM FOR MULLINER SYSTEM IN BENTLEY VIRTUOSO COLLECTION INTRODUCED British HiFi brand Naim has announced a new in-car audio system developed in collaboration with Bentley\u2019s Mulliner division, forming part of the Bentley Virtuoso Collection. The Naim for Mulliner system builds&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/naim-for-mulliner-system-in-bentley-virtuoso-collection/index.html"
+                },
                 {
                     "title": "Mola Mola Ossetra Monobloc Amplifier",
                     "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
@@ -957,98 +928,6 @@
                     "excerpt": "\u00d8 AUDIO UK DISTRIBUTION AGREEMENT WITH THE AUDIO AGENT ANNOUNCED \u00d8 Audio has formally entered the UK market, appointing The Audio Agent as its exclusive national distributor. The agreement marks the company\u2019s first official distribution presence in the UK. Based&hellip;",
                     "date": "March 5, 2026",
                     "href": "../../posts/o-audio-loudspeakers-available-in-the-uk/index.html"
-                },
-                {
-                    "title": "Grell OAE2 Open-Back Headphones",
-                    "excerpt": "GRELL OAE2 OPEN-BACK HEADPHONES ANNOUNCED FOR INTERNATIONAL RELEASE Grell Audio has confirmed wider international availability of the Grell OAE2 open-back headphones, developed by Axel Grell. Following an initial launch in Germany, the model will roll out across the US, UK&hellip;",
-                    "date": "March 4, 2026",
-                    "href": "../../posts/grell-oae2-open-back-headphones/index.html"
-                },
-                {
-                    "title": "Boyer Audio At Audio Show Deluxe 2026",
-                    "excerpt": "BOYER AUDIO CONFIRMS INTERNATIONAL LINE-UP AT AUDIO SHOW DELUXE 2026 Boyer Audio has outlined its line-up for Audio Show Deluxe 2026, bringing together a series of UK premieres and established reference-level systems. The exhibitor\u2019s rooms will host several international brands,&hellip;",
-                    "date": "March 4, 2026",
-                    "href": "../../posts/boyer-audio-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Harmony HiFi Distributing Pylon Audio Loudspeakers",
-                    "excerpt": "HARMONY HIFI DISTRIBUTION AND PYLON AUDIO LOUDSPEAKERS AGREEMENT ANNOUNCED FOR UK MARKET Harmony HiFi Distribution has announced an exclusive distribution agreement with Pylon Audio, bringing the Polish manufacturer\u2019s full loudspeaker portfolio to the UK market. The agreement covers the complete&hellip;",
-                    "date": "March 3, 2026",
-                    "href": "../../posts/harmony-hifi-distributing-pylon-audio-loudspeakers/index.html"
-                },
-                {
-                    "title": "B\u00f8rresen M8 And Aavik M-880 Launch Event Video",
-                    "excerpt": "AUDIO GROUP DENMARK RELEASE THE VIDEO FROM THE LAUNCH OF THE BORRESEN M8 AND AAVIK M-880 https://youtu.be/ezQmqRi2F_g?si=8BX-_5o-Akm5c1uo Audio Group Denmark has released the video from their launch event of the B\u00f8rresen M8 loudspeakers and Aavik M-880 amplifiers...feturing HiFi PiG's Stu&hellip;",
-                    "date": "March 3, 2026",
-                    "href": "../../posts/borresen-m8-and-aavik-m-880-launch-event-video/index.html"
-                },
-                {
-                    "title": "Magico S7 2026 Loudspeaker",
-                    "excerpt": "MAGICO S7 2026 CONCLUDES THE UPDATED S SERIES Magico has announced the Magico S7 2026, the final model in the updates of its long-running S Series loudspeaker range. The five-driver, three-way Magico S7 2026 floorstander weighs 384lbs (174kg) and is&hellip;",
-                    "date": "March 3, 2026",
-                    "href": "../../posts/magico-s7-2026-loudspeaker/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Hifi Reviews",
-            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
-            "slug": "hifi-reviews",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
-            "posts": [
-                {
-                    "title": "Mola Mola Ossetra Monobloc Amplifier",
-                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
-                    "date": "April 3, 2026",
-                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
-                },
-                {
-                    "title": "Authentic Audio Image Vittorioso + Cables",
-                    "excerpt": "AUTHENTIC AUDIO IMAGE VITTORIOSO + CABLES REVIEW Authentic Audio Image Vittorioso + cables are the Slovakian brand's entry-level offering, though they are still a substantial investment. In this review, Debbie Collinson takes a listen to the full range, including interconnects,&hellip;",
-                    "date": "April 2, 2026",
-                    "href": "../../posts/authentic-audio-image-vittorioso-cables/index.html"
-                },
-                {
-                    "title": "Grell OAE2 Headphones",
-                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/grell-oae2-headphones/index.html"
-                },
-                {
-                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
-                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
-                },
-                {
-                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
-                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
-                    "date": "March 18, 2026",
-                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
-                },
-                {
-                    "title": "Tellurium Q Silver III Series Cables",
-                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
-                    "date": "March 17, 2026",
-                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
-                },
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
-                },
-                {
-                    "title": "Final Tonalite True-Wireless Earphones",
-                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
-                    "date": "March 11, 2026",
-                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
-                },
-                {
-                    "title": "Quad Platina Integrated Amplifier",
-                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
-                    "date": "March 6, 2026",
-                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
                 }
             ]
         },
@@ -1058,6 +937,12 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Rhythm Distribution At AXPONA 2026",
+                    "excerpt": "RHYTHM DISTRIBUTION AT AXPONA 2026 WITH GOLDMUND TELOS 8800 MONOBLOCK AMPLIFIER AND MORE Rhythm Distribution will introduce several AXPONA debuts with exhibits in both the Prosperity Room and Utopia Lounge on the second floor. The distributor is presenting a number&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/rhythm-distribution-at-axpona-2026/index.html"
+                },
                 {
                     "title": "Next Level HiFi At AXPONA 2026",
                     "excerpt": "NEXT LEVEL HIFI AT AXPONA 2026 WITH AUDIO GROUP DENMARK AND SV-AUDIO Next Level HiFi will present two separate demonstration systems at AXPONA 2026, using adjacent rooms for Audio Group Denmark and SV-Audio on the Mezzanine Level. The exhibitor is&hellip;",
@@ -1231,12 +1116,88 @@
                     "excerpt": "ACCUPHASE C-3900S PREAMPLIFIER HEADLINES ACCUPHASE, PEAK, AND MUSIC WORKS AT AUDIO SHOW DELUXE 2026 Accuphase, Peak Consult and MusicWorks will present a joint system at Audio Show Deluxe 2026, centred around the Accuphase C-3900S preamplifier. The system will also include&hellip;",
                     "date": "March 5, 2026",
                     "href": "../../posts/musicworks-at-audio-show-deluxe-2026/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Amplifiers",
+            "description": "<p>Amplifier and Pre amplifier Hifi reviews</p>\n",
+            "slug": "amps-pre-amps",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/amps-pre-amps/",
+            "posts": [
+                {
+                    "title": "Mola Mola Ossetra Monobloc Amplifier",
+                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
                 },
                 {
-                    "title": "Boyer Audio At Audio Show Deluxe 2026",
-                    "excerpt": "BOYER AUDIO CONFIRMS INTERNATIONAL LINE-UP AT AUDIO SHOW DELUXE 2026 Boyer Audio has outlined its line-up for Audio Show Deluxe 2026, bringing together a series of UK premieres and established reference-level systems. The exhibitor\u2019s rooms will host several international brands,&hellip;",
-                    "date": "March 4, 2026",
-                    "href": "../../posts/boyer-audio-at-audio-show-deluxe-2026/index.html"
+                    "title": "Quad Platina Integrated Amplifier",
+                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
+                    "date": "March 6, 2026",
+                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Hifi Reviews",
+            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
+            "slug": "hifi-reviews",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
+            "posts": [
+                {
+                    "title": "Mola Mola Ossetra Monobloc Amplifier",
+                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
+                },
+                {
+                    "title": "Authentic Audio Image Vittorioso + Cables",
+                    "excerpt": "AUTHENTIC AUDIO IMAGE VITTORIOSO + CABLES REVIEW Authentic Audio Image Vittorioso + cables are the Slovakian brand's entry-level offering, though they are still a substantial investment. In this review, Debbie Collinson takes a listen to the full range, including interconnects,&hellip;",
+                    "date": "April 2, 2026",
+                    "href": "../../posts/authentic-audio-image-vittorioso-cables/index.html"
+                },
+                {
+                    "title": "Grell OAE2 Headphones",
+                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/grell-oae2-headphones/index.html"
+                },
+                {
+                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
+                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
+                },
+                {
+                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
+                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
+                    "date": "March 18, 2026",
+                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
+                },
+                {
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
+                },
+                {
+                    "title": "Pro-Ject Debut Reference 10 Turntable",
+                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
+                    "date": "March 12, 2026",
+                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
+                },
+                {
+                    "title": "Final Tonalite True-Wireless Earphones",
+                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
+                    "date": "March 11, 2026",
+                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
+                },
+                {
+                    "title": "Quad Platina Integrated Amplifier",
+                    "excerpt": "QUAD PLATINA INTEGRATED AMPLIFIER REVIEW The Quad Platina Integrated amplifier is a thoroughly modern design that has been five years in the planning. Jaine Elliot takes a listen to this \u00a33500 integrated from a name most people will know very&hellip;",
+                    "date": "March 6, 2026",
+                    "href": "../../posts/quad-platina-integrated-amplifier-2/index.html"
                 }
             ]
         },
