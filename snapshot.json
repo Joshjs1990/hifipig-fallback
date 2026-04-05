@@ -1,9 +1,23 @@
 {
-    "generated_at": "2026-04-04 18:35:23",
+    "generated_at": "2026-04-05 18:36:19",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "AXPONA 2026 New Product Debuts Round Up",
+            "excerpt": "AXPONA 2026 PRODUCT DEBUTS OVERVIEW AXPONA 2026, taking place from April 10\u201312 in Schaumburg, Illinois, will host a wide range of new HiFi product launches from international manufacturers. The show spans multiple zones including listening rooms, the Expo Hall and&hellip;",
+            "date": "April 5, 2026",
+            "href": "./posts/axpona-2026-new-product-debuts-round-up/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Streaming&#8230;Again!",
+            "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+            "date": "April 5, 2026",
+            "href": "./posts/streaming-again/index.html",
+            "type": "post"
+        },
         {
             "title": "Rhythm Distribution At AXPONA 2026",
             "excerpt": "RHYTHM DISTRIBUTION AT AXPONA 2026 WITH GOLDMUND TELOS 8800 MONOBLOCK AMPLIFIER AND MORE Rhythm Distribution will introduce several AXPONA debuts with exhibits in both the Prosperity Room and Utopia Lounge on the second floor. The distributor is presenting a number&hellip;",
@@ -479,27 +493,6 @@
             "date": "March 6, 2026",
             "href": "./posts/wellbeing-strategist-at-audio-show-deluxe-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "Kii Sonic Lounge At Ultimate Stream",
-            "excerpt": "KII SONIC LOUNGE NOW OPEN AT ULTIMATE STREAM Ultimate Stream has been officially designated as a Kii Sonic Lounge, providing audiophiles with access to the full Kii Audio range. The new lounge is intended as a space for both stereo&hellip;",
-            "date": "March 5, 2026",
-            "href": "./posts/kii-sonic-lounge-at-ultimate-stream/index.html",
-            "type": "post"
-        },
-        {
-            "title": "MusicWorks At Audio Show Deluxe 2026",
-            "excerpt": "ACCUPHASE C-3900S PREAMPLIFIER HEADLINES ACCUPHASE, PEAK, AND MUSIC WORKS AT AUDIO SHOW DELUXE 2026 Accuphase, Peak Consult and MusicWorks will present a joint system at Audio Show Deluxe 2026, centred around the Accuphase C-3900S preamplifier. The system will also include&hellip;",
-            "date": "March 5, 2026",
-            "href": "./posts/musicworks-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "\u00d8 Audio Loudspeakers Available In The UK",
-            "excerpt": "\u00d8 AUDIO UK DISTRIBUTION AGREEMENT WITH THE AUDIO AGENT ANNOUNCED \u00d8 Audio has formally entered the UK market, appointing The Audio Agent as its exclusive national distributor. The agreement marks the company\u2019s first official distribution presence in the UK. Based&hellip;",
-            "date": "March 5, 2026",
-            "href": "./posts/o-audio-loudspeakers-available-in-the-uk/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -509,6 +502,18 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "AXPONA 2026 New Product Debuts Round Up",
+                    "excerpt": "AXPONA 2026 PRODUCT DEBUTS OVERVIEW AXPONA 2026, taking place from April 10\u201312 in Schaumburg, Illinois, will host a wide range of new HiFi product launches from international manufacturers. The show spans multiple zones including listening rooms, the Expo Hall and&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/axpona-2026-new-product-debuts-round-up/index.html"
+                },
+                {
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
+                },
                 {
                     "title": "Rhythm Distribution At AXPONA 2026",
                     "excerpt": "RHYTHM DISTRIBUTION AT AXPONA 2026 WITH GOLDMUND TELOS 8800 MONOBLOCK AMPLIFIER AND MORE Rhythm Distribution will introduce several AXPONA debuts with exhibits in both the Prosperity Room and Utopia Lounge on the second floor. The distributor is presenting a number&hellip;",
@@ -910,24 +915,6 @@
                     "excerpt": "WELLBEING STRATEGIST GONG SOUND BATH DEMONSTRATIONS AT AUDIO SHOW DELUXE 2026 Visitors to Audio Show Deluxe 2026 will be able to explore the therapeutic side of sound as wellbeing strategist Kasia Richter presents a series of live gong sound bath&hellip;",
                     "date": "March 6, 2026",
                     "href": "../../posts/wellbeing-strategist-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Kii Sonic Lounge At Ultimate Stream",
-                    "excerpt": "KII SONIC LOUNGE NOW OPEN AT ULTIMATE STREAM Ultimate Stream has been officially designated as a Kii Sonic Lounge, providing audiophiles with access to the full Kii Audio range. The new lounge is intended as a space for both stereo&hellip;",
-                    "date": "March 5, 2026",
-                    "href": "../../posts/kii-sonic-lounge-at-ultimate-stream/index.html"
-                },
-                {
-                    "title": "MusicWorks At Audio Show Deluxe 2026",
-                    "excerpt": "ACCUPHASE C-3900S PREAMPLIFIER HEADLINES ACCUPHASE, PEAK, AND MUSIC WORKS AT AUDIO SHOW DELUXE 2026 Accuphase, Peak Consult and MusicWorks will present a joint system at Audio Show Deluxe 2026, centred around the Accuphase C-3900S preamplifier. The system will also include&hellip;",
-                    "date": "March 5, 2026",
-                    "href": "../../posts/musicworks-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "\u00d8 Audio Loudspeakers Available In The UK",
-                    "excerpt": "\u00d8 AUDIO UK DISTRIBUTION AGREEMENT WITH THE AUDIO AGENT ANNOUNCED \u00d8 Audio has formally entered the UK market, appointing The Audio Agent as its exclusive national distributor. The agreement marks the company\u2019s first official distribution presence in the UK. Based&hellip;",
-                    "date": "March 5, 2026",
-                    "href": "../../posts/o-audio-loudspeakers-available-in-the-uk/index.html"
                 }
             ]
         },
@@ -937,6 +924,12 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "AXPONA 2026 New Product Debuts Round Up",
+                    "excerpt": "AXPONA 2026 PRODUCT DEBUTS OVERVIEW AXPONA 2026, taking place from April 10\u201312 in Schaumburg, Illinois, will host a wide range of new HiFi product launches from international manufacturers. The show spans multiple zones including listening rooms, the Expo Hall and&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/axpona-2026-new-product-debuts-round-up/index.html"
+                },
                 {
                     "title": "Rhythm Distribution At AXPONA 2026",
                     "excerpt": "RHYTHM DISTRIBUTION AT AXPONA 2026 WITH GOLDMUND TELOS 8800 MONOBLOCK AMPLIFIER AND MORE Rhythm Distribution will introduce several AXPONA debuts with exhibits in both the Prosperity Room and Utopia Lounge on the second floor. The distributor is presenting a number&hellip;",
@@ -1110,12 +1103,58 @@
                     "excerpt": "WELLBEING STRATEGIST GONG SOUND BATH DEMONSTRATIONS AT AUDIO SHOW DELUXE 2026 Visitors to Audio Show Deluxe 2026 will be able to explore the therapeutic side of sound as wellbeing strategist Kasia Richter presents a series of live gong sound bath&hellip;",
                     "date": "March 6, 2026",
                     "href": "../../posts/wellbeing-strategist-at-audio-show-deluxe-2026/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Comment",
+            "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
+            "slug": "editorial-comment",
+            "source_url": "https://www.hifipig.com/category/editorial-comment/",
+            "posts": [
+                {
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
                 },
                 {
-                    "title": "MusicWorks At Audio Show Deluxe 2026",
-                    "excerpt": "ACCUPHASE C-3900S PREAMPLIFIER HEADLINES ACCUPHASE, PEAK, AND MUSIC WORKS AT AUDIO SHOW DELUXE 2026 Accuphase, Peak Consult and MusicWorks will present a joint system at Audio Show Deluxe 2026, centred around the Accuphase C-3900S preamplifier. The system will also include&hellip;",
-                    "date": "March 5, 2026",
-                    "href": "../../posts/musicworks-at-audio-show-deluxe-2026/index.html"
+                    "title": "Bar Talk!",
+                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
+                    "date": "March 15, 2026",
+                    "href": "../../posts/bar-talk/index.html"
+                },
+                {
+                    "title": "International Women\u2019s Day and Women In HiFi",
+                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
+                    "date": "March 8, 2026",
+                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Views Of Stu",
+            "description": "",
+            "slug": "views-of-stu",
+            "source_url": "https://www.hifipig.com/category/views-of-stu/",
+            "posts": [
+                {
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
+                },
+                {
+                    "title": "Bar Talk!",
+                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
+                    "date": "March 15, 2026",
+                    "href": "../../posts/bar-talk/index.html"
+                },
+                {
+                    "title": "International Women\u2019s Day and Women In HiFi",
+                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
+                    "date": "March 8, 2026",
+                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
                 }
             ]
         },
@@ -1306,46 +1345,6 @@
                     "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
                     "date": "March 18, 2026",
                     "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Comment",
-            "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
-            "slug": "editorial-comment",
-            "source_url": "https://www.hifipig.com/category/editorial-comment/",
-            "posts": [
-                {
-                    "title": "Bar Talk!",
-                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
-                    "date": "March 15, 2026",
-                    "href": "../../posts/bar-talk/index.html"
-                },
-                {
-                    "title": "International Women\u2019s Day and Women In HiFi",
-                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
-                    "date": "March 8, 2026",
-                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Views Of Stu",
-            "description": "",
-            "slug": "views-of-stu",
-            "source_url": "https://www.hifipig.com/category/views-of-stu/",
-            "posts": [
-                {
-                    "title": "Bar Talk!",
-                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
-                    "date": "March 15, 2026",
-                    "href": "../../posts/bar-talk/index.html"
-                },
-                {
-                    "title": "International Women\u2019s Day and Women In HiFi",
-                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
-                    "date": "March 8, 2026",
-                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
                 }
             ]
         },
