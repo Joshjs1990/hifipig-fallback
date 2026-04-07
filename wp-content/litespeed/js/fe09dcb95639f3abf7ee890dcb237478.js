@@ -6,6 +6,6 @@ function transitionTo(gallery,index){if((counter>=length)||(index>=length)){coun
 $cont.find(".c-"+counter).show();var tracker=$cont.find(".c-"+counter+' a').attr("data-track");if(typeof tracker!=='undefined'){impressiontracker(tracker)}
 $cont.find(".c-"+index).hide()}
 function play(){transitionTo(gallery,counter)}
-function impressiontracker(tracker){admeta=atob(tracker).split(',');var name=escape('adrotate-'+admeta[0]);var now=Math.round(Date.now()/1000);var expired=now-admeta[3];var session=sessionStorage.getItem(name);if(session==null){session=0}
+function impressiontracker(tracker){admeta=atob(tracker).split(',');var name=escape('adrotate-'+admeta[0]);var now=Math.round(Date.now()/1000);var expired=now-admeta[2];var session=sessionStorage.getItem(name);if(session==null){session=0}
 if(session<=expired){$.post(impression_object.ajax_url,{'action':'adrotate_impression','track':tracker});sessionStorage.setItem(name,now);delete tracker}}});return this}}(jQuery))
 ;
