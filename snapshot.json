@@ -1,9 +1,37 @@
 {
-    "generated_at": "2026-04-07 18:38:49",
+    "generated_at": "2026-04-08 18:36:05",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Women In HiFi Meet-Up At AXPONA 2026",
+            "excerpt": "INFORMAL GATHERING FOR WOMEN IN THE HiFi INDUSTRY AND HOBBY An official Women in HiFi Meet Up will take place during AXPONA 2026, offering an informal opportunity for women involved in HiFi and Audio to connect. The event is open&hellip;",
+            "date": "April 8, 2026",
+            "href": "./posts/women-in-hifi-meet-up-at-axpona-2026/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Cambridge Audio MSX Speaker Range",
+            "excerpt": "CAMBRIDGE AUDIO MSX SPEAKER RANGE LAUNCHED AS REFRESHED MINX SUCCESSOR British HiFi brand Cambridge Audio has announced the new Cambridge Audio MSX speaker range, a revised version of its long-running Minx series. The new line retains the compact form factor&hellip;",
+            "date": "April 8, 2026",
+            "href": "./posts/cambridge-audio-msx-speaker-range/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+            "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
+            "date": "April 8, 2026",
+            "href": "./posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Monarch Systems Distribution At AXPONA 2026",
+            "excerpt": "MONARCH SYSTEMS DISTRIBUTION AND VINNIEROSSI PARTNERSHIP ANNOUNCED WITH AXPONA 2026 APPEARANCE Monarch Systems Distribution has confirmed a new partnership with VinnieRossi, becoming the brand\u2019s distributor for the United States. VinnieRossi will form a key part of the distributor's exhibition system&hellip;",
+            "date": "April 8, 2026",
+            "href": "./posts/monarch-systems-distribution-at-axpona-2026/index.html",
+            "type": "post"
+        },
         {
             "title": "Electrocompaniet EC 5 Preamplifier At AXPONA 2026",
             "excerpt": "BE AMONG THE FIRST IN THE USA TO HEAR THE ELECTROCOMPANIET EC5 PREAMPLIFIER AT AXPONA 2026 Norwegian HiFi brand Electrocompaniet, our coverage sponsors for AXPONA 2026, will be giving show visitors the chance to hear their long-awaited new flagship preamplifier,&hellip;",
@@ -479,13 +507,6 @@
             "date": "March 9, 2026",
             "href": "./posts/meze-audio-astru-iems/index.html",
             "type": "post"
-        },
-        {
-            "title": "International Women\u2019s Day and Women In HiFi",
-            "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
-            "date": "March 8, 2026",
-            "href": "./posts/international-womens-day-and-women-in-hifi/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -495,6 +516,30 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Women In HiFi Meet-Up At AXPONA 2026",
+                    "excerpt": "INFORMAL GATHERING FOR WOMEN IN THE HiFi INDUSTRY AND HOBBY An official Women in HiFi Meet Up will take place during AXPONA 2026, offering an informal opportunity for women involved in HiFi and Audio to connect. The event is open&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/women-in-hifi-meet-up-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Cambridge Audio MSX Speaker Range",
+                    "excerpt": "CAMBRIDGE AUDIO MSX SPEAKER RANGE LAUNCHED AS REFRESHED MINX SUCCESSOR British HiFi brand Cambridge Audio has announced the new Cambridge Audio MSX speaker range, a revised version of its long-running Minx series. The new line retains the compact form factor&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/cambridge-audio-msx-speaker-range/index.html"
+                },
+                {
+                    "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+                    "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
+                },
+                {
+                    "title": "Monarch Systems Distribution At AXPONA 2026",
+                    "excerpt": "MONARCH SYSTEMS DISTRIBUTION AND VINNIEROSSI PARTNERSHIP ANNOUNCED WITH AXPONA 2026 APPEARANCE Monarch Systems Distribution has confirmed a new partnership with VinnieRossi, becoming the brand\u2019s distributor for the United States. VinnieRossi will form a key part of the distributor's exhibition system&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/monarch-systems-distribution-at-axpona-2026/index.html"
+                },
                 {
                     "title": "Electrocompaniet EC 5 Preamplifier At AXPONA 2026",
                     "excerpt": "BE AMONG THE FIRST IN THE USA TO HEAR THE ELECTROCOMPANIET EC5 PREAMPLIFIER AT AXPONA 2026 Norwegian HiFi brand Electrocompaniet, our coverage sponsors for AXPONA 2026, will be giving show visitors the chance to hear their long-awaited new flagship preamplifier,&hellip;",
@@ -896,12 +941,6 @@
                     "excerpt": "MEZE AUDIO ASTRU SINGLE DYNAMIC DRIVER IEM ANNOUNCED Meze Audio has announced the Meze Audio ASTRU, a new flagship in-ear monitor (IEM) built around a single dynamic driver design. The company says the model is aimed at listeners seeking high-end&hellip;",
                     "date": "March 9, 2026",
                     "href": "../../posts/meze-audio-astru-iems/index.html"
-                },
-                {
-                    "title": "International Women\u2019s Day and Women In HiFi",
-                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
-                    "date": "March 8, 2026",
-                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
                 }
             ]
         },
@@ -911,6 +950,18 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Women In HiFi Meet-Up At AXPONA 2026",
+                    "excerpt": "INFORMAL GATHERING FOR WOMEN IN THE HiFi INDUSTRY AND HOBBY An official Women in HiFi Meet Up will take place during AXPONA 2026, offering an informal opportunity for women involved in HiFi and Audio to connect. The event is open&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/women-in-hifi-meet-up-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Monarch Systems Distribution At AXPONA 2026",
+                    "excerpt": "MONARCH SYSTEMS DISTRIBUTION AND VINNIEROSSI PARTNERSHIP ANNOUNCED WITH AXPONA 2026 APPEARANCE Monarch Systems Distribution has confirmed a new partnership with VinnieRossi, becoming the brand\u2019s distributor for the United States. VinnieRossi will form a key part of the distributor's exhibition system&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/monarch-systems-distribution-at-axpona-2026/index.html"
+                },
                 {
                     "title": "Electrocompaniet EC 5 Preamplifier At AXPONA 2026",
                     "excerpt": "BE AMONG THE FIRST IN THE USA TO HEAR THE ELECTROCOMPANIET EC5 PREAMPLIFIER AT AXPONA 2026 Norwegian HiFi brand Electrocompaniet, our coverage sponsors for AXPONA 2026, will be giving show visitors the chance to hear their long-awaited new flagship preamplifier,&hellip;",
@@ -1100,6 +1151,52 @@
             ]
         },
         {
+            "name": "Behind the Brands",
+            "description": "<p>Interviews with leading figures in the Hifi Industry</p>\n",
+            "slug": "interviews",
+            "source_url": "https://www.hifipig.com/category/interviews/",
+            "posts": [
+                {
+                    "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+                    "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Industry Insider",
+            "description": "<p>The front page of Hifi Pig&#8217;s Industry Insider where you&#8217;ll find hifi interviews, hifi show reports, factory visits and more! </p>\n",
+            "slug": "industry-insider",
+            "source_url": "https://www.hifipig.com/category/industry-insider/",
+            "posts": [
+                {
+                    "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+                    "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
+                },
+                {
+                    "title": "Oslo HiFi Show 2026 Report",
+                    "excerpt": "JON LUMB CONTINUES HIS SCANDI ADVENTURE AT THE OSLO HiFi SHOW 2026 HiFi PiG\u2019s Jon has been enjoying a Scandi-Fi adventure, following on from the High Performance Audio Show 2026 in Denmark, he headed to Norway, for the Oslo HiFi&hellip;",
+                    "date": "March 27, 2026",
+                    "href": "../../posts/oslo-hifi-show-2026-report/index.html"
+                },
+                {
+                    "title": "Audio Show Deluxe 2026 Report",
+                    "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
+                    "date": "March 24, 2026",
+                    "href": "../../posts/audio-show-deluxe-2026-report/index.html"
+                },
+                {
+                    "title": "High Performance Audio Show Denmark 2026 Report",
+                    "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
+                    "date": "March 16, 2026",
+                    "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
+                }
+            ]
+        },
+        {
             "name": "Comment",
             "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
             "slug": "editorial-comment",
@@ -1116,12 +1213,6 @@
                     "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
                     "date": "March 15, 2026",
                     "href": "../../posts/bar-talk/index.html"
-                },
-                {
-                    "title": "International Women\u2019s Day and Women In HiFi",
-                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
-                    "date": "March 8, 2026",
-                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
                 }
             ]
         },
@@ -1142,12 +1233,6 @@
                     "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
                     "date": "March 15, 2026",
                     "href": "../../posts/bar-talk/index.html"
-                },
-                {
-                    "title": "International Women\u2019s Day and Women In HiFi",
-                    "excerpt": "Today is International Women\u2019s Day, which comes around every year with the usual mention on the telly news and in the Sunday supplements. And every year when this day comes around, the question that comes up in this house is:&hellip;",
-                    "date": "March 8, 2026",
-                    "href": "../../posts/international-womens-day-and-women-in-hifi/index.html"
                 }
             ]
         },
@@ -1286,32 +1371,6 @@
                     "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
                     "date": "March 31, 2026",
                     "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Industry Insider",
-            "description": "<p>The front page of Hifi Pig&#8217;s Industry Insider where you&#8217;ll find hifi interviews, hifi show reports, factory visits and more! </p>\n",
-            "slug": "industry-insider",
-            "source_url": "https://www.hifipig.com/category/industry-insider/",
-            "posts": [
-                {
-                    "title": "Oslo HiFi Show 2026 Report",
-                    "excerpt": "JON LUMB CONTINUES HIS SCANDI ADVENTURE AT THE OSLO HiFi SHOW 2026 HiFi PiG\u2019s Jon has been enjoying a Scandi-Fi adventure, following on from the High Performance Audio Show 2026 in Denmark, he headed to Norway, for the Oslo HiFi&hellip;",
-                    "date": "March 27, 2026",
-                    "href": "../../posts/oslo-hifi-show-2026-report/index.html"
-                },
-                {
-                    "title": "Audio Show Deluxe 2026 Report",
-                    "excerpt": "HiFi PiG REPORTS FROM THE FABULOUS AUDIO SHOW DELUXE 2026 LUXURY HiFi SHOW HiFi PiG\u2019s Stu, Lin, Oscar and Kelly bring you their coverage of Audio Show Deluxe 2026, an event that is about relaxing with the luxury of time&hellip;",
-                    "date": "March 24, 2026",
-                    "href": "../../posts/audio-show-deluxe-2026-report/index.html"
-                },
-                {
-                    "title": "High Performance Audio Show Denmark 2026 Report",
-                    "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
-                    "date": "March 16, 2026",
-                    "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
                 }
             ]
         },
