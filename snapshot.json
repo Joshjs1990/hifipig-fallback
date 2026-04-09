@@ -1,9 +1,51 @@
 {
-    "generated_at": "2026-04-08 18:36:05",
+    "generated_at": "2026-04-09 18:37:55",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Grado Labs Cartridge Lineup Evolution",
+            "excerpt": "GRADO LABS CARTRIDGE LINEUP EVOLUTION REVISES LINEAGE, TIMBRE, AND PRESTIGE SERIES Grado Labs has announced an update to its phono cartridge range, covering the Lineage, Timbre, and Prestige Series. The revised lineup focuses on incremental refinements to key components, including&hellip;",
+            "date": "April 9, 2026",
+            "href": "./posts/grado-labs-cartridge-lineup-evolution/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Luxury Audio Group At AXPONA 2026",
+            "excerpt": "LUXURY AUDIO GROUP $1.5M SYSTEM AT AXPONA 2026 WITH ESTELON EXTREME MKII Luxury Audio Group will be exhibiting at AXPONA 2026 with a reference-level audio system valued at over $1.5 million featuring Estelon and Vitus Audio. The company returns to&hellip;",
+            "date": "April 9, 2026",
+            "href": "./posts/luxury-audio-group-at-axpona-2026/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Interview &#8211; Ricardo Franassovici Of Absolute Sounds",
+            "excerpt": "Absolute Sounds has long been a key player in UK high-end HiFi. In this chat, Stuart sits down with Ricardo Franassovici to talk about how the company was built, the brands behind it, and what really matters in today\u2019s audiophile&hellip;",
+            "date": "April 9, 2026",
+            "href": "./posts/interview-ricardo-franassovici-of-absolute-sounds/index.html",
+            "type": "post"
+        },
+        {
+            "title": "ROSE One App Launched",
+            "excerpt": "ROSE ONE APP LAUNCH BRINGS UNIFIED EXPERIENCE ACROSS ALL PLATFORMS The new ROSE One app has been introduced as the next-generation control platform, replacing the previous ROSE Connect Premium system. The update centres on a single hybrid architecture designed to&hellip;",
+            "date": "April 9, 2026",
+            "href": "./posts/rose-one-app-launched/index.html",
+            "type": "post"
+        },
+        {
+            "title": "G\u00f6bel Divin Monarque Loudspeaker",
+            "excerpt": "G\u00d6BEL HIGH END DIVIN MONARQUE LOUDSPEAKER ANNOUNCED AHEAD OF HIGH END VIENNA 2026 G\u00f6bel High End has announced the G\u00f6bel Divin Monarque Loudspeaker, a new ultra high end floorstanding loudspeaker positioned within its Divin range. The model is intended to&hellip;",
+            "date": "April 9, 2026",
+            "href": "./posts/gobel-divin-monarque-loudspeaker/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Aesthetix Audio At AXPONA 2026",
+            "excerpt": "AESTHETIX AUDIO AT AXPONA 2026 PRESENTS TWO ANALOGUE AND DIGITAL SYSTEMS Aesthetix Audio will demonstrate two complete systems, covering both vinyl and digital playback, and showcasing the brand\u2019s range of valve and hybrid electronics in real-world setups. AESTHETIX AUDIO AXPONA&hellip;",
+            "date": "April 9, 2026",
+            "href": "./posts/aesthetix-audio-at-axpona-2026/index.html",
+            "type": "post"
+        },
         {
             "title": "Women In HiFi Meet-Up At AXPONA 2026",
             "excerpt": "INFORMAL GATHERING FOR WOMEN IN THE HiFi INDUSTRY AND HOBBY An official Women in HiFi Meet Up will take place during AXPONA 2026, offering an informal opportunity for women involved in HiFi and Audio to connect. The event is open&hellip;",
@@ -19,7 +61,7 @@
             "type": "post"
         },
         {
-            "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+            "title": "Women In HiFi &#8211; Interview With Linette Smith Of Women In HiFi",
             "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
             "date": "April 8, 2026",
             "href": "./posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html",
@@ -493,20 +535,6 @@
             "date": "March 10, 2026",
             "href": "./posts/the-spinning-room-hifi-listening-lounge-opens/index.html",
             "type": "post"
-        },
-        {
-            "title": "Auden Distribution Presents Reference Hegel And Amphion System At Audio Show Deluxe 2026",
-            "excerpt": "HEGEL D50 DAC SYSTEM WITH AMPHION KRYPTON3X TO FEATURE IN AUDEN DISTRIBUTION ROOM AT AUDIO SHOW DELUXE 2026 UK distributor Auden Distribution will return to Audio Show Deluxe 2026 with a full reference system built around Hegel electronics and Amphion&hellip;",
-            "date": "March 9, 2026",
-            "href": "./posts/auden-distribution-presents-reference-hegel-and-amphion-system-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Meze Audio ASTRU IEMs",
-            "excerpt": "MEZE AUDIO ASTRU SINGLE DYNAMIC DRIVER IEM ANNOUNCED Meze Audio has announced the Meze Audio ASTRU, a new flagship in-ear monitor (IEM) built around a single dynamic driver design. The company says the model is aimed at listeners seeking high-end&hellip;",
-            "date": "March 9, 2026",
-            "href": "./posts/meze-audio-astru-iems/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -516,6 +544,42 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Grado Labs Cartridge Lineup Evolution",
+                    "excerpt": "GRADO LABS CARTRIDGE LINEUP EVOLUTION REVISES LINEAGE, TIMBRE, AND PRESTIGE SERIES Grado Labs has announced an update to its phono cartridge range, covering the Lineage, Timbre, and Prestige Series. The revised lineup focuses on incremental refinements to key components, including&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/grado-labs-cartridge-lineup-evolution/index.html"
+                },
+                {
+                    "title": "Luxury Audio Group At AXPONA 2026",
+                    "excerpt": "LUXURY AUDIO GROUP $1.5M SYSTEM AT AXPONA 2026 WITH ESTELON EXTREME MKII Luxury Audio Group will be exhibiting at AXPONA 2026 with a reference-level audio system valued at over $1.5 million featuring Estelon and Vitus Audio. The company returns to&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/luxury-audio-group-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Interview &#8211; Ricardo Franassovici Of Absolute Sounds",
+                    "excerpt": "Absolute Sounds has long been a key player in UK high-end HiFi. In this chat, Stuart sits down with Ricardo Franassovici to talk about how the company was built, the brands behind it, and what really matters in today\u2019s audiophile&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/interview-ricardo-franassovici-of-absolute-sounds/index.html"
+                },
+                {
+                    "title": "ROSE One App Launched",
+                    "excerpt": "ROSE ONE APP LAUNCH BRINGS UNIFIED EXPERIENCE ACROSS ALL PLATFORMS The new ROSE One app has been introduced as the next-generation control platform, replacing the previous ROSE Connect Premium system. The update centres on a single hybrid architecture designed to&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/rose-one-app-launched/index.html"
+                },
+                {
+                    "title": "G\u00f6bel Divin Monarque Loudspeaker",
+                    "excerpt": "G\u00d6BEL HIGH END DIVIN MONARQUE LOUDSPEAKER ANNOUNCED AHEAD OF HIGH END VIENNA 2026 G\u00f6bel High End has announced the G\u00f6bel Divin Monarque Loudspeaker, a new ultra high end floorstanding loudspeaker positioned within its Divin range. The model is intended to&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/gobel-divin-monarque-loudspeaker/index.html"
+                },
+                {
+                    "title": "Aesthetix Audio At AXPONA 2026",
+                    "excerpt": "AESTHETIX AUDIO AT AXPONA 2026 PRESENTS TWO ANALOGUE AND DIGITAL SYSTEMS Aesthetix Audio will demonstrate two complete systems, covering both vinyl and digital playback, and showcasing the brand\u2019s range of valve and hybrid electronics in real-world setups. AESTHETIX AUDIO AXPONA&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/aesthetix-audio-at-axpona-2026/index.html"
+                },
                 {
                     "title": "Women In HiFi Meet-Up At AXPONA 2026",
                     "excerpt": "INFORMAL GATHERING FOR WOMEN IN THE HiFi INDUSTRY AND HOBBY An official Women in HiFi Meet Up will take place during AXPONA 2026, offering an informal opportunity for women involved in HiFi and Audio to connect. The event is open&hellip;",
@@ -529,7 +593,7 @@
                     "href": "../../posts/cambridge-audio-msx-speaker-range/index.html"
                 },
                 {
-                    "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+                    "title": "Women In HiFi &#8211; Interview With Linette Smith Of Women In HiFi",
                     "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
                     "date": "April 8, 2026",
                     "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
@@ -929,18 +993,6 @@
                     "excerpt": "THE SPINNING ROOM HIFI LISTENING LOUNGE OPENS AT SUNNY BANK MILLS Leeds-based HiFi retailer The Spinning Room HiFi has announced the opening of a new dedicated demonstration space called The Spinning Room HiFi Listening Lounge. The room has been created&hellip;",
                     "date": "March 10, 2026",
                     "href": "../../posts/the-spinning-room-hifi-listening-lounge-opens/index.html"
-                },
-                {
-                    "title": "Auden Distribution Presents Reference Hegel And Amphion System At Audio Show Deluxe 2026",
-                    "excerpt": "HEGEL D50 DAC SYSTEM WITH AMPHION KRYPTON3X TO FEATURE IN AUDEN DISTRIBUTION ROOM AT AUDIO SHOW DELUXE 2026 UK distributor Auden Distribution will return to Audio Show Deluxe 2026 with a full reference system built around Hegel electronics and Amphion&hellip;",
-                    "date": "March 9, 2026",
-                    "href": "../../posts/auden-distribution-presents-reference-hegel-and-amphion-system-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Meze Audio ASTRU IEMs",
-                    "excerpt": "MEZE AUDIO ASTRU SINGLE DYNAMIC DRIVER IEM ANNOUNCED Meze Audio has announced the Meze Audio ASTRU, a new flagship in-ear monitor (IEM) built around a single dynamic driver design. The company says the model is aimed at listeners seeking high-end&hellip;",
-                    "date": "March 9, 2026",
-                    "href": "../../posts/meze-audio-astru-iems/index.html"
                 }
             ]
         },
@@ -950,6 +1002,24 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Luxury Audio Group At AXPONA 2026",
+                    "excerpt": "LUXURY AUDIO GROUP $1.5M SYSTEM AT AXPONA 2026 WITH ESTELON EXTREME MKII Luxury Audio Group will be exhibiting at AXPONA 2026 with a reference-level audio system valued at over $1.5 million featuring Estelon and Vitus Audio. The company returns to&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/luxury-audio-group-at-axpona-2026/index.html"
+                },
+                {
+                    "title": "Interview &#8211; Ricardo Franassovici Of Absolute Sounds",
+                    "excerpt": "Absolute Sounds has long been a key player in UK high-end HiFi. In this chat, Stuart sits down with Ricardo Franassovici to talk about how the company was built, the brands behind it, and what really matters in today\u2019s audiophile&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/interview-ricardo-franassovici-of-absolute-sounds/index.html"
+                },
+                {
+                    "title": "Aesthetix Audio At AXPONA 2026",
+                    "excerpt": "AESTHETIX AUDIO AT AXPONA 2026 PRESENTS TWO ANALOGUE AND DIGITAL SYSTEMS Aesthetix Audio will demonstrate two complete systems, covering both vinyl and digital playback, and showcasing the brand\u2019s range of valve and hybrid electronics in real-world setups. AESTHETIX AUDIO AXPONA&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/aesthetix-audio-at-axpona-2026/index.html"
+                },
                 {
                     "title": "Women In HiFi Meet-Up At AXPONA 2026",
                     "excerpt": "INFORMAL GATHERING FOR WOMEN IN THE HiFi INDUSTRY AND HOBBY An official Women in HiFi Meet Up will take place during AXPONA 2026, offering an informal opportunity for women involved in HiFi and Audio to connect. The event is open&hellip;",
@@ -1141,26 +1211,6 @@
                     "excerpt": "SYMPHONY DISTRIBUTION PRESENTS ESOTERIC N1T NETWORK TRANSPORT AT THE SHOW Symphony Distribution will showcase a complete HiFi system built around the Esoteric N1T Network Transport at Audio Show Deluxe 2026. The presentation marks the UK show debut of the network&hellip;",
                     "date": "March 11, 2026",
                     "href": "../../posts/symphony-distribution-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Auden Distribution Presents Reference Hegel And Amphion System At Audio Show Deluxe 2026",
-                    "excerpt": "HEGEL D50 DAC SYSTEM WITH AMPHION KRYPTON3X TO FEATURE IN AUDEN DISTRIBUTION ROOM AT AUDIO SHOW DELUXE 2026 UK distributor Auden Distribution will return to Audio Show Deluxe 2026 with a full reference system built around Hegel electronics and Amphion&hellip;",
-                    "date": "March 9, 2026",
-                    "href": "../../posts/auden-distribution-presents-reference-hegel-and-amphion-system-at-audio-show-deluxe-2026/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Behind the Brands",
-            "description": "<p>Interviews with leading figures in the Hifi Industry</p>\n",
-            "slug": "interviews",
-            "source_url": "https://www.hifipig.com/category/interviews/",
-            "posts": [
-                {
-                    "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
-                    "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
-                    "date": "April 8, 2026",
-                    "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
                 }
             ]
         },
@@ -1171,7 +1221,13 @@
             "source_url": "https://www.hifipig.com/category/industry-insider/",
             "posts": [
                 {
-                    "title": "Women In HiFi &#8211; Interview with Linette Smith of Women In HiFi",
+                    "title": "Interview &#8211; Ricardo Franassovici Of Absolute Sounds",
+                    "excerpt": "Absolute Sounds has long been a key player in UK high-end HiFi. In this chat, Stuart sits down with Ricardo Franassovici to talk about how the company was built, the brands behind it, and what really matters in today\u2019s audiophile&hellip;",
+                    "date": "April 9, 2026",
+                    "href": "../../posts/interview-ricardo-franassovici-of-absolute-sounds/index.html"
+                },
+                {
+                    "title": "Women In HiFi &#8211; Interview With Linette Smith Of Women In HiFi",
                     "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
                     "date": "April 8, 2026",
                     "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
@@ -1193,6 +1249,20 @@
                     "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
                     "date": "March 16, 2026",
                     "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Behind the Brands",
+            "description": "<p>Interviews with leading figures in the Hifi Industry</p>\n",
+            "slug": "interviews",
+            "source_url": "https://www.hifipig.com/category/interviews/",
+            "posts": [
+                {
+                    "title": "Women In HiFi &#8211; Interview With Linette Smith Of Women In HiFi",
+                    "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
+                    "date": "April 8, 2026",
+                    "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
                 }
             ]
         },
