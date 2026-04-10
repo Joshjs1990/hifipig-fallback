@@ -1,9 +1,30 @@
 {
-    "generated_at": "2026-04-09 18:37:55",
+    "generated_at": "2026-04-10 18:30:50",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
+            "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
+            "date": "April 10, 2026",
+            "href": "./posts/interview-guillaume-boyer-of-boyer-audio/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Paradigm Premier Series V2 Loudspeakers",
+            "excerpt": "PARADIGM PREMIER SERIES V2 LAUNCHED WITH UPDATED DESIGN AND TECHNOLOGY Paradigm Electronics has announced the Paradigm Premier Series V2 Loudspeakers, a revised range of loudspeakers set to debut publicly at AXPONA 2026. The Paradigm Premier Series v2 is positioned as&hellip;",
+            "date": "April 10, 2026",
+            "href": "./posts/paradigm-premier-series-v2-loudspeakers/index.html",
+            "type": "post"
+        },
+        {
+            "title": "ZMF Caldera Closed Headphones",
+            "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
+            "date": "April 10, 2026",
+            "href": "./posts/zmf-caldera-closed-headphones/index.html",
+            "type": "post"
+        },
         {
             "title": "Grado Labs Cartridge Lineup Evolution",
             "excerpt": "GRADO LABS CARTRIDGE LINEUP EVOLUTION REVISES LINEAGE, TIMBRE, AND PRESTIGE SERIES Grado Labs has announced an update to its phono cartridge range, covering the Lineage, Timbre, and Prestige Series. The revised lineup focuses on incremental refinements to key components, including&hellip;",
@@ -507,34 +528,6 @@
             "date": "March 11, 2026",
             "href": "./posts/final-tonalite-true-wireless-earphones-2/index.html",
             "type": "post"
-        },
-        {
-            "title": "Sendy Audio KYLIN DAC And Headphone Amplifier",
-            "excerpt": "SENDY AUDIO KYLIN DAC AND HEADPHONE AMP INTRODUCED Sendy Audio has announced the Sendy Audio KYLIN, a desktop DAC and headphone amplifier designed for high-resolution audio playback. The unit was first previewed at CanJam NYC 2025 and was released as&hellip;",
-            "date": "March 10, 2026",
-            "href": "./posts/sendy-audio-kylin-dac-and-headphone-amplifier/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Luxman, DALI And The Chord Company At Audio Show Deluxe 2026",
-            "excerpt": "LUXMAN L-100C CLASS A AMPLIFIER HEADLINES LUXMAN, DALI AND THE CHORD COMPANY SYSTEM AT AUDIO SHOW DELUXE 2026 Luxman, DALI and The Chord Company will jointly demonstrate a complete HiFi system at Audio Show Deluxe 2026. The system will be&hellip;",
-            "date": "March 10, 2026",
-            "href": "./posts/luxman-dali-and-the-chord-company-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Solen Available In The UK",
-            "excerpt": "FRENCH HiFi BRAND SOLEN UK DISTRIBUTION ANNOUNCED Solen CV40-EL84 Tube Amplifier and Solen CV20-N arrive in the UK via Replay Audio Distribution. French amplifier manufacturer Solen has appointed Replay Audio Distribution as its UK distributor. The agreement will see the&hellip;",
-            "date": "March 10, 2026",
-            "href": "./posts/solen-available-in-the-uk/index.html",
-            "type": "post"
-        },
-        {
-            "title": "The Spinning Room HiFi Listening Lounge Opens",
-            "excerpt": "THE SPINNING ROOM HIFI LISTENING LOUNGE OPENS AT SUNNY BANK MILLS Leeds-based HiFi retailer The Spinning Room HiFi has announced the opening of a new dedicated demonstration space called The Spinning Room HiFi Listening Lounge. The room has been created&hellip;",
-            "date": "March 10, 2026",
-            "href": "./posts/the-spinning-room-hifi-listening-lounge-opens/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -544,6 +537,24 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
+                    "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/interview-guillaume-boyer-of-boyer-audio/index.html"
+                },
+                {
+                    "title": "Paradigm Premier Series V2 Loudspeakers",
+                    "excerpt": "PARADIGM PREMIER SERIES V2 LAUNCHED WITH UPDATED DESIGN AND TECHNOLOGY Paradigm Electronics has announced the Paradigm Premier Series V2 Loudspeakers, a revised range of loudspeakers set to debut publicly at AXPONA 2026. The Paradigm Premier Series v2 is positioned as&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/paradigm-premier-series-v2-loudspeakers/index.html"
+                },
+                {
+                    "title": "ZMF Caldera Closed Headphones",
+                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
+                },
                 {
                     "title": "Grado Labs Cartridge Lineup Evolution",
                     "excerpt": "GRADO LABS CARTRIDGE LINEUP EVOLUTION REVISES LINEAGE, TIMBRE, AND PRESTIGE SERIES Grado Labs has announced an update to its phono cartridge range, covering the Lineage, Timbre, and Prestige Series. The revised lineup focuses on incremental refinements to key components, including&hellip;",
@@ -975,24 +986,6 @@
                     "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
                     "date": "March 11, 2026",
                     "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
-                },
-                {
-                    "title": "Sendy Audio KYLIN DAC And Headphone Amplifier",
-                    "excerpt": "SENDY AUDIO KYLIN DAC AND HEADPHONE AMP INTRODUCED Sendy Audio has announced the Sendy Audio KYLIN, a desktop DAC and headphone amplifier designed for high-resolution audio playback. The unit was first previewed at CanJam NYC 2025 and was released as&hellip;",
-                    "date": "March 10, 2026",
-                    "href": "../../posts/sendy-audio-kylin-dac-and-headphone-amplifier/index.html"
-                },
-                {
-                    "title": "Solen Available In The UK",
-                    "excerpt": "FRENCH HiFi BRAND SOLEN UK DISTRIBUTION ANNOUNCED Solen CV40-EL84 Tube Amplifier and Solen CV20-N arrive in the UK via Replay Audio Distribution. French amplifier manufacturer Solen has appointed Replay Audio Distribution as its UK distributor. The agreement will see the&hellip;",
-                    "date": "March 10, 2026",
-                    "href": "../../posts/solen-available-in-the-uk/index.html"
-                },
-                {
-                    "title": "The Spinning Room HiFi Listening Lounge Opens",
-                    "excerpt": "THE SPINNING ROOM HIFI LISTENING LOUNGE OPENS AT SUNNY BANK MILLS Leeds-based HiFi retailer The Spinning Room HiFi has announced the opening of a new dedicated demonstration space called The Spinning Room HiFi Listening Lounge. The room has been created&hellip;",
-                    "date": "March 10, 2026",
-                    "href": "../../posts/the-spinning-room-hifi-listening-lounge-opens/index.html"
                 }
             ]
         },
@@ -1002,6 +995,12 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
+                    "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/interview-guillaume-boyer-of-boyer-audio/index.html"
+                },
                 {
                     "title": "Luxury Audio Group At AXPONA 2026",
                     "excerpt": "LUXURY AUDIO GROUP $1.5M SYSTEM AT AXPONA 2026 WITH ESTELON EXTREME MKII Luxury Audio Group will be exhibiting at AXPONA 2026 with a reference-level audio system valued at over $1.5 million featuring Estelon and Vitus Audio. The company returns to&hellip;",
@@ -1221,6 +1220,12 @@
             "source_url": "https://www.hifipig.com/category/industry-insider/",
             "posts": [
                 {
+                    "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
+                    "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/interview-guillaume-boyer-of-boyer-audio/index.html"
+                },
+                {
                     "title": "Interview &#8211; Ricardo Franassovici Of Absolute Sounds",
                     "excerpt": "Absolute Sounds has long been a key player in UK high-end HiFi. In this chat, Stuart sits down with Ricardo Franassovici to talk about how the company was built, the brands behind it, and what really matters in today\u2019s audiophile&hellip;",
                     "date": "April 9, 2026",
@@ -1249,6 +1254,94 @@
                     "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
                     "date": "March 16, 2026",
                     "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Headphones",
+            "description": "<p>Hifi headphone reviews</p>\n",
+            "slug": "headphones",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/headphones/",
+            "posts": [
+                {
+                    "title": "ZMF Caldera Closed Headphones",
+                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
+                },
+                {
+                    "title": "Grell OAE2 Headphones",
+                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/grell-oae2-headphones/index.html"
+                },
+                {
+                    "title": "Final Tonalite True-Wireless Earphones",
+                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
+                    "date": "March 11, 2026",
+                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Hifi Reviews",
+            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
+            "slug": "hifi-reviews",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
+            "posts": [
+                {
+                    "title": "ZMF Caldera Closed Headphones",
+                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
+                },
+                {
+                    "title": "Mola Mola Ossetra Monobloc Amplifier",
+                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
+                },
+                {
+                    "title": "Authentic Audio Image Vittorioso + Cables",
+                    "excerpt": "AUTHENTIC AUDIO IMAGE VITTORIOSO + CABLES REVIEW Authentic Audio Image Vittorioso + cables are the Slovakian brand's entry-level offering, though they are still a substantial investment. In this review, Debbie Collinson takes a listen to the full range, including interconnects,&hellip;",
+                    "date": "April 2, 2026",
+                    "href": "../../posts/authentic-audio-image-vittorioso-cables/index.html"
+                },
+                {
+                    "title": "Grell OAE2 Headphones",
+                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/grell-oae2-headphones/index.html"
+                },
+                {
+                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
+                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
+                },
+                {
+                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
+                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
+                    "date": "March 18, 2026",
+                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
+                },
+                {
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
+                },
+                {
+                    "title": "Pro-Ject Debut Reference 10 Turntable",
+                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
+                    "date": "March 12, 2026",
+                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
+                },
+                {
+                    "title": "Final Tonalite True-Wireless Earphones",
+                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
+                    "date": "March 11, 2026",
+                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
                 }
             ]
         },
@@ -1321,62 +1414,6 @@
             ]
         },
         {
-            "name": "Hifi Reviews",
-            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
-            "slug": "hifi-reviews",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
-            "posts": [
-                {
-                    "title": "Mola Mola Ossetra Monobloc Amplifier",
-                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
-                    "date": "April 3, 2026",
-                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
-                },
-                {
-                    "title": "Authentic Audio Image Vittorioso + Cables",
-                    "excerpt": "AUTHENTIC AUDIO IMAGE VITTORIOSO + CABLES REVIEW Authentic Audio Image Vittorioso + cables are the Slovakian brand's entry-level offering, though they are still a substantial investment. In this review, Debbie Collinson takes a listen to the full range, including interconnects,&hellip;",
-                    "date": "April 2, 2026",
-                    "href": "../../posts/authentic-audio-image-vittorioso-cables/index.html"
-                },
-                {
-                    "title": "Grell OAE2 Headphones",
-                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/grell-oae2-headphones/index.html"
-                },
-                {
-                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
-                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
-                },
-                {
-                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
-                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
-                    "date": "March 18, 2026",
-                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
-                },
-                {
-                    "title": "Tellurium Q Silver III Series Cables",
-                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
-                    "date": "March 17, 2026",
-                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
-                },
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
-                },
-                {
-                    "title": "Final Tonalite True-Wireless Earphones",
-                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
-                    "date": "March 11, 2026",
-                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
-                }
-            ]
-        },
-        {
             "name": "Cables",
             "description": "<p>Hifi cable and accessories reviews</p>\n",
             "slug": "cables-accessories",
@@ -1407,26 +1444,6 @@
                     "excerpt": "THE HiFi PiG SELECTION BOX \u2013 DIVERSIONARY STRATEGIES FOR THE MODERN WORLD MARCH 2026 Inspired by the seventies children\u2019s television program Why Don\u2019t You, HiFi PiG is putting together a monthly digest of links to music, literature, film, and more&hellip;",
                     "date": "March 31, 2026",
                     "href": "../../posts/the-hifi-pig-selection-box-march-2026/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Headphones",
-            "description": "<p>Hifi headphone reviews</p>\n",
-            "slug": "headphones",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/headphones/",
-            "posts": [
-                {
-                    "title": "Grell OAE2 Headphones",
-                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/grell-oae2-headphones/index.html"
-                },
-                {
-                    "title": "Final Tonalite True-Wireless Earphones",
-                    "excerpt": "FINAL TONALITE EARPHONES REVIEW Final Tonalite are an interesting set of erphones that have a unique way of tailoring their sound to your ears, body, and timbral preferences. They cost $329, and in this review, Oscar Stewart goes through the&hellip;",
-                    "date": "March 11, 2026",
-                    "href": "../../posts/final-tonalite-true-wireless-earphones-2/index.html"
                 }
             ]
         },
@@ -1469,20 +1486,6 @@
                     "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
                     "date": "March 12, 2026",
                     "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Uncategorized",
-            "description": "",
-            "slug": "uncategorized",
-            "source_url": "https://www.hifipig.com/category/uncategorized/",
-            "posts": [
-                {
-                    "title": "Luxman, DALI And The Chord Company At Audio Show Deluxe 2026",
-                    "excerpt": "LUXMAN L-100C CLASS A AMPLIFIER HEADLINES LUXMAN, DALI AND THE CHORD COMPANY SYSTEM AT AUDIO SHOW DELUXE 2026 Luxman, DALI and The Chord Company will jointly demonstrate a complete HiFi system at Audio Show Deluxe 2026. The system will be&hellip;",
-                    "date": "March 10, 2026",
-                    "href": "../../posts/luxman-dali-and-the-chord-company-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         }
