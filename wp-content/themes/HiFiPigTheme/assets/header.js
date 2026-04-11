@@ -428,6 +428,76 @@
   whenIdle(() => initSearch(false));
 
   /* -----------------------------
+   * AdRotate fallback
+   * - Preserve native AdRotate rotation when available
+   * - If the group slider script is missing, rotate creatives safely
+   *   instead of stacking every .g-dyn at once
+   * ----------------------------- */
+  const initAdRotateFallback = () => {
+    if (window.jQuery && window.jQuery.fn && typeof window.jQuery.fn.gslider === "function") {
+      return;
+    }
+
+    const groups = document.querySelectorAll(".page-top-ad .g, .site-sidebar__ad-slot .g");
+    if (!groups.length) {
+      return;
+    }
+
+    let refreshSeed = 0;
+    try {
+      refreshSeed = parseInt(window.sessionStorage.getItem("hifipig_adrotate_refresh_seed") || "0", 10) || 0;
+      refreshSeed += 1;
+      window.sessionStorage.setItem("hifipig_adrotate_refresh_seed", String(refreshSeed));
+    } catch (e) {}
+
+    const speed =
+      window.HiFiPig && Number.isFinite(Number(window.HiFiPig.adRotateSpeed))
+        ? Math.max(1000, Number(window.HiFiPig.adRotateSpeed))
+        : 35000;
+
+    groups.forEach((groupEl, groupIndex) => {
+      if (!(groupEl instanceof HTMLElement) || groupEl.dataset.hifipigFallbackReady === "true") {
+        return;
+      }
+
+      const creatives = Array.from(groupEl.children).filter(
+        (child) => child instanceof HTMLElement && child.classList.contains("g-dyn")
+      );
+
+      if (creatives.length < 2) {
+        if (creatives.length === 1) {
+          creatives[0].style.display = "block";
+          creatives[0].setAttribute("aria-hidden", "false");
+        }
+        groupEl.dataset.hifipigFallbackReady = "true";
+        return;
+      }
+
+      let activeIndex = (refreshSeed + groupIndex) % creatives.length;
+
+      const showCreative = (index) => {
+        creatives.forEach((creativeEl, creativeIndex) => {
+          const isActive = creativeIndex === index;
+          creativeEl.style.display = isActive ? "block" : "none";
+          creativeEl.setAttribute("aria-hidden", isActive ? "false" : "true");
+        });
+      };
+
+      showCreative(activeIndex);
+      window.setInterval(() => {
+        activeIndex = (activeIndex + 1) % creatives.length;
+        showCreative(activeIndex);
+      }, speed);
+
+      groupEl.dataset.hifipigFallbackReady = "true";
+    });
+  };
+
+  whenIdle(() => {
+    window.setTimeout(initAdRotateFallback, 800);
+  });
+
+  /* -----------------------------
    * Mobile menu popup panel (Option B)
    * - Builds a drill-down menu from ul#primary-menu
    * - Scrollable panel, Back button

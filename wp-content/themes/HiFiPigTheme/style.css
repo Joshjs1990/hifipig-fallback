@@ -1656,7 +1656,14 @@ margin-bottom:28px
 .site-sidebar__dynamic-ads{
 display:grid;
 gap:20px;
-margin-top:28px
+margin-top:0;
+margin-bottom:28px
+}
+
+.site-sidebar > .site-sidebar__ad-slot--top + .widget{
+padding-top:28px;
+padding-bottom:28px;
+margin-bottom:0;
 }
 
 .site-sidebar__ads:empty,
@@ -1697,16 +1704,10 @@ height:auto;
 display:block
 }
 
-/* AdRotate fallback: if the group slider script is absent or delayed,
-   only show the first creative inside each theme-managed ad slot. */
-.page-top-ad .g > .g-dyn,
-.site-sidebar__ad-slot .g > .g-dyn{
-  display:none;
+@media (max-width: 900px) {
+.site-sidebar__ads > .site-sidebar__ad-slot:nth-child(n+11){
+display:none;
 }
-
-.page-top-ad .g > .g-dyn:first-child,
-.site-sidebar__ad-slot .g > .g-dyn:first-child{
-  display:block;
 }
 
 .site-sidebar .widget-title {
