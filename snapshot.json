@@ -1,9 +1,16 @@
 {
-    "generated_at": "2026-04-11 18:35:26",
+    "generated_at": "2026-04-12 18:35:37",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "The Soundtrack of War",
+            "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
+            "date": "April 12, 2026",
+            "href": "./posts/the-soundtrack-of-war/index.html",
+            "type": "post"
+        },
         {
             "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
             "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
@@ -472,43 +479,47 @@
             "date": "March 13, 2026",
             "href": "./posts/stratton-acoustics-at-audio-show-deluxe-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "Cyrus Audio At Audio Show Deluxe 2026",
-            "excerpt": "CYRUS AUDIO CYRUS 80 AMP STREAMING AMPLIFIER DEMONSTRATION Cyrus Audio will present a complete system demonstration at Audio Show Deluxe 2026, built around the new Cyrus 80 AMP streaming amplifier. The British HiFi brand will use the show to demonstrate&hellip;",
-            "date": "March 12, 2026",
-            "href": "./posts/cyrus-audio-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Anatech With MartinLogan At Audio Show Deluxe 2026",
-            "excerpt": "MARTINLOGAN MASTERPIECE IMPRESSION ESL11A SYSTEM AT AUDIO SHOW DELUXE 2026 Distributor Anatech will showcase a system centred on the MartinLogan Masterpiece Impression ESL11A loudspeakers at Audio Show Deluxe 2026. &nbsp;The demonstration will take place in Syndicate 21, where visitors will&hellip;",
-            "date": "March 12, 2026",
-            "href": "./posts/anatech-with-martinlogan-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Boyer Audio 10-Year Anniversary Celebrations",
-            "excerpt": "BOYER AUDIO 10-YEAR ANNIVERSARY BEGINS AT AUDIO SHOW DELUXE 2026 Boyer Audio will mark the start of its 10-year anniversary celebrations with a major presence at Audio Show Deluxe 2026, taking place on 21st \u2013 22nd of March at Whittlebury&hellip;",
-            "date": "March 12, 2026",
-            "href": "./posts/boyer-audio-10-year-anniversary-celebrations/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Pro-Ject Debut Reference 10 Turntable",
-            "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-            "date": "March 12, 2026",
-            "href": "./posts/pro-ject-debut-reference-10-turntable/index.html",
-            "type": "post"
         }
     ],
     "categories": [
+        {
+            "name": "Comment",
+            "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
+            "slug": "editorial-comment",
+            "source_url": "https://www.hifipig.com/category/editorial-comment/",
+            "posts": [
+                {
+                    "title": "The Soundtrack of War",
+                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
+                    "date": "April 12, 2026",
+                    "href": "../../posts/the-soundtrack-of-war/index.html"
+                },
+                {
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
+                },
+                {
+                    "title": "Bar Talk!",
+                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
+                    "date": "March 15, 2026",
+                    "href": "../../posts/bar-talk/index.html"
+                }
+            ]
+        },
         {
             "name": "Hifi News",
             "description": "",
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "The Soundtrack of War",
+                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
+                    "date": "April 12, 2026",
+                    "href": "../../posts/the-soundtrack-of-war/index.html"
+                },
                 {
                     "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
                     "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
@@ -910,30 +921,32 @@
                     "excerpt": "STRATTON ACOUSTICS ELEMENT 6 AND ELEMENT 8 DEBUT AT AUDIO SHOW DELUXE 2026 British loudspeaker manufacturer Stratton Acoustics will use Audio Show Deluxe 2026 to present two new models, the Stratton Acoustics Element 6 and Element 8. The new loudspeakers&hellip;",
                     "date": "March 13, 2026",
                     "href": "../../posts/stratton-acoustics-at-audio-show-deluxe-2026/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Views Of Stu",
+            "description": "",
+            "slug": "views-of-stu",
+            "source_url": "https://www.hifipig.com/category/views-of-stu/",
+            "posts": [
+                {
+                    "title": "The Soundtrack of War",
+                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
+                    "date": "April 12, 2026",
+                    "href": "../../posts/the-soundtrack-of-war/index.html"
                 },
                 {
-                    "title": "Cyrus Audio At Audio Show Deluxe 2026",
-                    "excerpt": "CYRUS AUDIO CYRUS 80 AMP STREAMING AMPLIFIER DEMONSTRATION Cyrus Audio will present a complete system demonstration at Audio Show Deluxe 2026, built around the new Cyrus 80 AMP streaming amplifier. The British HiFi brand will use the show to demonstrate&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/cyrus-audio-at-audio-show-deluxe-2026/index.html"
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
                 },
                 {
-                    "title": "Anatech With MartinLogan At Audio Show Deluxe 2026",
-                    "excerpt": "MARTINLOGAN MASTERPIECE IMPRESSION ESL11A SYSTEM AT AUDIO SHOW DELUXE 2026 Distributor Anatech will showcase a system centred on the MartinLogan Masterpiece Impression ESL11A loudspeakers at Audio Show Deluxe 2026. &nbsp;The demonstration will take place in Syndicate 21, where visitors will&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/anatech-with-martinlogan-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Boyer Audio 10-Year Anniversary Celebrations",
-                    "excerpt": "BOYER AUDIO 10-YEAR ANNIVERSARY BEGINS AT AUDIO SHOW DELUXE 2026 Boyer Audio will mark the start of its 10-year anniversary celebrations with a major presence at Audio Show Deluxe 2026, taking place on 21st \u2013 22nd of March at Whittlebury&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/boyer-audio-10-year-anniversary-celebrations/index.html"
-                },
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
+                    "title": "Bar Talk!",
+                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
+                    "date": "March 15, 2026",
+                    "href": "../../posts/bar-talk/index.html"
                 }
             ]
         },
@@ -1140,18 +1153,6 @@
                     "excerpt": "STRATTON ACOUSTICS ELEMENT 6 AND ELEMENT 8 DEBUT AT AUDIO SHOW DELUXE 2026 British loudspeaker manufacturer Stratton Acoustics will use Audio Show Deluxe 2026 to present two new models, the Stratton Acoustics Element 6 and Element 8. The new loudspeakers&hellip;",
                     "date": "March 13, 2026",
                     "href": "../../posts/stratton-acoustics-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Cyrus Audio At Audio Show Deluxe 2026",
-                    "excerpt": "CYRUS AUDIO CYRUS 80 AMP STREAMING AMPLIFIER DEMONSTRATION Cyrus Audio will present a complete system demonstration at Audio Show Deluxe 2026, built around the new Cyrus 80 AMP streaming amplifier. The British HiFi brand will use the show to demonstrate&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/cyrus-audio-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Anatech With MartinLogan At Audio Show Deluxe 2026",
-                    "excerpt": "MARTINLOGAN MASTERPIECE IMPRESSION ESL11A SYSTEM AT AUDIO SHOW DELUXE 2026 Distributor Anatech will showcase a system centred on the MartinLogan Masterpiece Impression ESL11A loudspeakers at Audio Show Deluxe 2026. &nbsp;The demonstration will take place in Syndicate 21, where visitors will&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/anatech-with-martinlogan-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         },
@@ -1266,12 +1267,6 @@
                     "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
                     "date": "March 17, 2026",
                     "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
-                },
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
                 }
             ]
         },
@@ -1286,46 +1281,6 @@
                     "excerpt": "Women In HiFi has been running in one form or another for well over a decade. In this interview, Stuart Smith speaks with Linette Smith about the goals behind the initiative, its development over the years, and the importance of&hellip;",
                     "date": "April 8, 2026",
                     "href": "../../posts/women-in-hifi-interview-with-linette-smith-of-women-in-hifi/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Comment",
-            "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
-            "slug": "editorial-comment",
-            "source_url": "https://www.hifipig.com/category/editorial-comment/",
-            "posts": [
-                {
-                    "title": "Streaming&#8230;Again!",
-                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
-                    "date": "April 5, 2026",
-                    "href": "../../posts/streaming-again/index.html"
-                },
-                {
-                    "title": "Bar Talk!",
-                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
-                    "date": "March 15, 2026",
-                    "href": "../../posts/bar-talk/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Views Of Stu",
-            "description": "",
-            "slug": "views-of-stu",
-            "source_url": "https://www.hifipig.com/category/views-of-stu/",
-            "posts": [
-                {
-                    "title": "Streaming&#8230;Again!",
-                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
-                    "date": "April 5, 2026",
-                    "href": "../../posts/streaming-again/index.html"
-                },
-                {
-                    "title": "Bar Talk!",
-                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
-                    "date": "March 15, 2026",
-                    "href": "../../posts/bar-talk/index.html"
                 }
             ]
         },
@@ -1402,20 +1357,6 @@
                     "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
                     "date": "March 18, 2026",
                     "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Turntables, Arms and Cartridges",
-            "description": "<p>reviews of turntables, arms and cartridges.</p>\n",
-            "slug": "turntables-arms-cartridges",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/turntables-arms-cartridges/",
-            "posts": [
-                {
-                    "title": "Pro-Ject Debut Reference 10 Turntable",
-                    "excerpt": "PRO-JECT DEBUT REFERENCE 10 TURNTABLE The Pro-Ject Debut Reference 10 turntable costs a single pound under a thousand, but comes with a ten-inch tonearm and a cartridge. Clearly aimed at vinyl lovers who want to get the best out of&hellip;",
-                    "date": "March 12, 2026",
-                    "href": "../../posts/pro-ject-debut-reference-10-turntable/index.html"
                 }
             ]
         }
