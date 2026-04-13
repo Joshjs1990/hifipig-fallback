@@ -1,9 +1,23 @@
 {
-    "generated_at": "2026-04-12 18:35:37",
+    "generated_at": "2026-04-13 18:35:30",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "Interview &#8211; Bill McKiegan of Dan D&#8217;Agostino Master Audio",
+            "excerpt": "What makes Dan D\u2019Agostino Master Audio Systems one of the most talked-about names in high-end HiFi? At Audio Show Deluxe, Stuart Smith of HiFi PiG sits down with Bill McKiegan of Dan D\u2019Agostino Master Audio Systems to talk about the&hellip;",
+            "date": "April 13, 2026",
+            "href": "./posts/interview-bill-mckiegan-of-dan-dagostino-master-audio/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Dan D\u2019agostino Momentum C2Z Preamplifier",
+            "excerpt": "DAN D\u2019AGOSTINO MOMENTUM C2Z PREAMPLIFIER DEBUTED AT AXPONA 2026 Dan D\u2019Agostino Master Audio Systems has announced the Dan D\u2019agostino Momentum C2Z Preamplifier , a new addition to its Momentum Series. The product made its debut at AXPONA 2026, which took&hellip;",
+            "date": "April 13, 2026",
+            "href": "./posts/dan-dagostino-momentum-c2z-preamplifier/index.html",
+            "type": "post"
+        },
         {
             "title": "The Soundtrack of War",
             "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
@@ -444,76 +458,27 @@
             "date": "March 14, 2026",
             "href": "./posts/chord-electronics-at-audio-show-deluxe-2026/index.html",
             "type": "post"
-        },
-        {
-            "title": "Symmetry At Audio Show Deluxe 2026",
-            "excerpt": "BRINKMANN TAURUS DIRECT DRIVE TURNTABLE AND BRINKMANN NYQUIST ONE DAC SYSTEM AT AUDIO SHOW DELUXE 2026 Symmetry will present a system built around Brinkmann analogue and digital components at Audio Show Deluxe 2026. The system centres on the Brinkmann Taurus&hellip;",
-            "date": "March 13, 2026",
-            "href": "./posts/symmetry-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "CAS At Audio Show Deluxe 2026",
-            "excerpt": "CAS AUDIO AT AUDIO SHOW DELUXE 2026: VINNIE ROSSI BRAMA INTEGRATED AMPLIFIER UK LAUNCH CAS Audio will showcase a reference system at Audio Show Deluxe 2026, centred around the UK launch of the Vinnie Rossi Brama integrated amplifier. The system&hellip;",
-            "date": "March 13, 2026",
-            "href": "./posts/cas-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Driving Sounds Magazine At Audio Show Deluxe 2026",
-            "excerpt": "UK\u2019S CAR AUDIO SPECIALIST DRIVING SOUNDS MAGAZINE AT AUDIO SHOW DELUXE 2026 Driving Sounds Magazine, the UK\u2019s only publication devoted to aftermarket car audio upgrades, will be exhibiting at Audio Show Deluxe 2026. The magazine will showcase two demonstration vehicles&hellip;",
-            "date": "March 13, 2026",
-            "href": "./posts/driving-sounds-magazine-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Classic Sounds Rebrands As Primary Audio",
-            "excerpt": "PRIMARY AUDIO ANNOUNCED AS NEW NAME FOR CLASSIC SOUNDS UK audio company Classic Sounds has announced that it has changed its name to Primary Audio. The company says the change is primarily a practical decision aimed at avoiding confusion with&hellip;",
-            "date": "March 13, 2026",
-            "href": "./posts/classic-sounds-rebrands-as-primary-audio/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Stratton Acoustics At Audio Show Deluxe 2026",
-            "excerpt": "STRATTON ACOUSTICS ELEMENT 6 AND ELEMENT 8 DEBUT AT AUDIO SHOW DELUXE 2026 British loudspeaker manufacturer Stratton Acoustics will use Audio Show Deluxe 2026 to present two new models, the Stratton Acoustics Element 6 and Element 8. The new loudspeakers&hellip;",
-            "date": "March 13, 2026",
-            "href": "./posts/stratton-acoustics-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
         }
     ],
     "categories": [
-        {
-            "name": "Comment",
-            "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
-            "slug": "editorial-comment",
-            "source_url": "https://www.hifipig.com/category/editorial-comment/",
-            "posts": [
-                {
-                    "title": "The Soundtrack of War",
-                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
-                    "date": "April 12, 2026",
-                    "href": "../../posts/the-soundtrack-of-war/index.html"
-                },
-                {
-                    "title": "Streaming&#8230;Again!",
-                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
-                    "date": "April 5, 2026",
-                    "href": "../../posts/streaming-again/index.html"
-                },
-                {
-                    "title": "Bar Talk!",
-                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
-                    "date": "March 15, 2026",
-                    "href": "../../posts/bar-talk/index.html"
-                }
-            ]
-        },
         {
             "name": "Hifi News",
             "description": "",
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "Interview &#8211; Bill McKiegan of Dan D&#8217;Agostino Master Audio",
+                    "excerpt": "What makes Dan D\u2019Agostino Master Audio Systems one of the most talked-about names in high-end HiFi? At Audio Show Deluxe, Stuart Smith of HiFi PiG sits down with Bill McKiegan of Dan D\u2019Agostino Master Audio Systems to talk about the&hellip;",
+                    "date": "April 13, 2026",
+                    "href": "../../posts/interview-bill-mckiegan-of-dan-dagostino-master-audio/index.html"
+                },
+                {
+                    "title": "Dan D\u2019agostino Momentum C2Z Preamplifier",
+                    "excerpt": "DAN D\u2019AGOSTINO MOMENTUM C2Z PREAMPLIFIER DEBUTED AT AXPONA 2026 Dan D\u2019Agostino Master Audio Systems has announced the Dan D\u2019agostino Momentum C2Z Preamplifier , a new addition to its Momentum Series. The product made its debut at AXPONA 2026, which took&hellip;",
+                    "date": "April 13, 2026",
+                    "href": "../../posts/dan-dagostino-momentum-c2z-preamplifier/index.html"
+                },
                 {
                     "title": "The Soundtrack of War",
                     "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
@@ -891,62 +856,6 @@
                     "excerpt": "CHORD ELECTRONICS ULTIMA PRE3 AND ULTIMA 3 MONO AMPLIFIERS AT AUDIO SHOW DELUXE 2026 Chord Electronics will make its first appearance at Audio Show Deluxe 2026, where the company will present a selection of its amplification products and provide demonstrations&hellip;",
                     "date": "March 14, 2026",
                     "href": "../../posts/chord-electronics-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Symmetry At Audio Show Deluxe 2026",
-                    "excerpt": "BRINKMANN TAURUS DIRECT DRIVE TURNTABLE AND BRINKMANN NYQUIST ONE DAC SYSTEM AT AUDIO SHOW DELUXE 2026 Symmetry will present a system built around Brinkmann analogue and digital components at Audio Show Deluxe 2026. The system centres on the Brinkmann Taurus&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/symmetry-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "CAS At Audio Show Deluxe 2026",
-                    "excerpt": "CAS AUDIO AT AUDIO SHOW DELUXE 2026: VINNIE ROSSI BRAMA INTEGRATED AMPLIFIER UK LAUNCH CAS Audio will showcase a reference system at Audio Show Deluxe 2026, centred around the UK launch of the Vinnie Rossi Brama integrated amplifier. The system&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/cas-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Driving Sounds Magazine At Audio Show Deluxe 2026",
-                    "excerpt": "UK\u2019S CAR AUDIO SPECIALIST DRIVING SOUNDS MAGAZINE AT AUDIO SHOW DELUXE 2026 Driving Sounds Magazine, the UK\u2019s only publication devoted to aftermarket car audio upgrades, will be exhibiting at Audio Show Deluxe 2026. The magazine will showcase two demonstration vehicles&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/driving-sounds-magazine-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Classic Sounds Rebrands As Primary Audio",
-                    "excerpt": "PRIMARY AUDIO ANNOUNCED AS NEW NAME FOR CLASSIC SOUNDS UK audio company Classic Sounds has announced that it has changed its name to Primary Audio. The company says the change is primarily a practical decision aimed at avoiding confusion with&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/classic-sounds-rebrands-as-primary-audio/index.html"
-                },
-                {
-                    "title": "Stratton Acoustics At Audio Show Deluxe 2026",
-                    "excerpt": "STRATTON ACOUSTICS ELEMENT 6 AND ELEMENT 8 DEBUT AT AUDIO SHOW DELUXE 2026 British loudspeaker manufacturer Stratton Acoustics will use Audio Show Deluxe 2026 to present two new models, the Stratton Acoustics Element 6 and Element 8. The new loudspeakers&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/stratton-acoustics-at-audio-show-deluxe-2026/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Views Of Stu",
-            "description": "",
-            "slug": "views-of-stu",
-            "source_url": "https://www.hifipig.com/category/views-of-stu/",
-            "posts": [
-                {
-                    "title": "The Soundtrack of War",
-                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
-                    "date": "April 12, 2026",
-                    "href": "../../posts/the-soundtrack-of-war/index.html"
-                },
-                {
-                    "title": "Streaming&#8230;Again!",
-                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
-                    "date": "April 5, 2026",
-                    "href": "../../posts/streaming-again/index.html"
-                },
-                {
-                    "title": "Bar Talk!",
-                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
-                    "date": "March 15, 2026",
-                    "href": "../../posts/bar-talk/index.html"
                 }
             ]
         },
@@ -956,6 +865,12 @@
             "slug": "hifi-shows",
             "source_url": "https://www.hifipig.com/category/hifi-shows/",
             "posts": [
+                {
+                    "title": "Interview &#8211; Bill McKiegan of Dan D&#8217;Agostino Master Audio",
+                    "excerpt": "What makes Dan D\u2019Agostino Master Audio Systems one of the most talked-about names in high-end HiFi? At Audio Show Deluxe, Stuart Smith of HiFi PiG sits down with Bill McKiegan of Dan D\u2019Agostino Master Audio Systems to talk about the&hellip;",
+                    "date": "April 13, 2026",
+                    "href": "../../posts/interview-bill-mckiegan-of-dan-dagostino-master-audio/index.html"
+                },
                 {
                     "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
                     "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
@@ -1129,30 +1044,6 @@
                     "excerpt": "CHORD ELECTRONICS ULTIMA PRE3 AND ULTIMA 3 MONO AMPLIFIERS AT AUDIO SHOW DELUXE 2026 Chord Electronics will make its first appearance at Audio Show Deluxe 2026, where the company will present a selection of its amplification products and provide demonstrations&hellip;",
                     "date": "March 14, 2026",
                     "href": "../../posts/chord-electronics-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Symmetry At Audio Show Deluxe 2026",
-                    "excerpt": "BRINKMANN TAURUS DIRECT DRIVE TURNTABLE AND BRINKMANN NYQUIST ONE DAC SYSTEM AT AUDIO SHOW DELUXE 2026 Symmetry will present a system built around Brinkmann analogue and digital components at Audio Show Deluxe 2026. The system centres on the Brinkmann Taurus&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/symmetry-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "CAS At Audio Show Deluxe 2026",
-                    "excerpt": "CAS AUDIO AT AUDIO SHOW DELUXE 2026: VINNIE ROSSI BRAMA INTEGRATED AMPLIFIER UK LAUNCH CAS Audio will showcase a reference system at Audio Show Deluxe 2026, centred around the UK launch of the Vinnie Rossi Brama integrated amplifier. The system&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/cas-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Driving Sounds Magazine At Audio Show Deluxe 2026",
-                    "excerpt": "UK\u2019S CAR AUDIO SPECIALIST DRIVING SOUNDS MAGAZINE AT AUDIO SHOW DELUXE 2026 Driving Sounds Magazine, the UK\u2019s only publication devoted to aftermarket car audio upgrades, will be exhibiting at Audio Show Deluxe 2026. The magazine will showcase two demonstration vehicles&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/driving-sounds-magazine-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Stratton Acoustics At Audio Show Deluxe 2026",
-                    "excerpt": "STRATTON ACOUSTICS ELEMENT 6 AND ELEMENT 8 DEBUT AT AUDIO SHOW DELUXE 2026 British loudspeaker manufacturer Stratton Acoustics will use Audio Show Deluxe 2026 to present two new models, the Stratton Acoustics Element 6 and Element 8. The new loudspeakers&hellip;",
-                    "date": "March 13, 2026",
-                    "href": "../../posts/stratton-acoustics-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         },
@@ -1162,6 +1053,12 @@
             "slug": "industry-insider",
             "source_url": "https://www.hifipig.com/category/industry-insider/",
             "posts": [
+                {
+                    "title": "Interview &#8211; Bill McKiegan of Dan D&#8217;Agostino Master Audio",
+                    "excerpt": "What makes Dan D\u2019Agostino Master Audio Systems one of the most talked-about names in high-end HiFi? At Audio Show Deluxe, Stuart Smith of HiFi PiG sits down with Bill McKiegan of Dan D\u2019Agostino Master Audio Systems to talk about the&hellip;",
+                    "date": "April 13, 2026",
+                    "href": "../../posts/interview-bill-mckiegan-of-dan-dagostino-master-audio/index.html"
+                },
                 {
                     "title": "Interview &#8211; Guillaume Boyer of Boyer Audio",
                     "excerpt": "High-End distributor Boyer is celebrating ten years in business, and in this interview with the founder and owner of the company, Stu discusses the origins of the company and where Guillaume sees the company going forward. Recorded at Audio Show&hellip;",
@@ -1197,6 +1094,58 @@
                     "excerpt": "HiFi PIG\u2019S JON LUMB HEADS TO DENMARK FOR THIS HIGH END HiFi SHOW FROM HIGH PERFORMANCE AUDIO Join HiFi PiG\u2019s Jon Lumb as he heads out on a Scandi-Fi adventure, taking in this show hosted by Danish distributor and dealer,&hellip;",
                     "date": "March 16, 2026",
                     "href": "../../posts/high-performance-audio-show-denmark-2026-report/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Comment",
+            "description": "<p>Monthly comment and views on all things hifi and audiophile from Hifi Pig.</p>\n",
+            "slug": "editorial-comment",
+            "source_url": "https://www.hifipig.com/category/editorial-comment/",
+            "posts": [
+                {
+                    "title": "The Soundtrack of War",
+                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
+                    "date": "April 12, 2026",
+                    "href": "../../posts/the-soundtrack-of-war/index.html"
+                },
+                {
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
+                },
+                {
+                    "title": "Bar Talk!",
+                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
+                    "date": "March 15, 2026",
+                    "href": "../../posts/bar-talk/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Views Of Stu",
+            "description": "",
+            "slug": "views-of-stu",
+            "source_url": "https://www.hifipig.com/category/views-of-stu/",
+            "posts": [
+                {
+                    "title": "The Soundtrack of War",
+                    "excerpt": "It all feels a bit on edge at the moment, doesn\u2019t it? I am not going to go full doom-and-gloom, but there is something in the air that's impossible to ignore. It's on the news, it's on socials, and it's&hellip;",
+                    "date": "April 12, 2026",
+                    "href": "../../posts/the-soundtrack-of-war/index.html"
+                },
+                {
+                    "title": "Streaming&#8230;Again!",
+                    "excerpt": "Like it or not, streaming is now the dominant way most of us consume music. It is convenient and immediate, and for listeners, it feels almost limitless. Sometimes I actually feel overwhelmed by the sheer volume of music that\u2019s avaialble,&hellip;",
+                    "date": "April 5, 2026",
+                    "href": "../../posts/streaming-again/index.html"
+                },
+                {
+                    "title": "Bar Talk!",
+                    "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
+                    "date": "March 15, 2026",
+                    "href": "../../posts/bar-talk/index.html"
                 }
             ]
         },
