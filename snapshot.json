@@ -1,9 +1,44 @@
 {
-    "generated_at": "2026-04-13 18:35:30",
+    "generated_at": "2026-04-14 18:35:41",
     "site_title": "Hifi Pig",
     "months_back": 1,
     "fallback_domain": "",
     "items": [
+        {
+            "title": "AVID Velsonic Phono Stage",
+            "excerpt": "AVID VELSONIC PHONO STAGE LAUNCHED AS NEW FLAGSHIP ANALOGUE DESIGN British HiFi brand AVID has announced the launch of the AVID Velsonic phono stage, its first entirely new phono stage design since 2012. Developed in Cambridgeshire, the Velsonic replaces the&hellip;",
+            "date": "April 14, 2026",
+            "href": "./posts/avid-velsonic-phono-stage/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Grado Labs Signature S550 Autism Awareness Headphone Auction",
+            "excerpt": "GRADO LABS MARKS AUTISM AWARENESS WITH ONE-OFF HEADPHONE AUCTION SUPPORTING EDEN II PROGRAMS Grado Labs has announced a one-of-a-kind headphone created to support autism awareness, with all proceeds going to Eden II Programs. The Brooklyn-based manufacturer has a long history&hellip;",
+            "date": "April 14, 2026",
+            "href": "./posts/grado-labs-signature-s550-autism-awareness-headphone-auction/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Kanto Audio Redesigned Speaker Range",
+            "excerpt": "KANTO AUDIO TUK GRAND LEADS NEW GENERATION OF LOUDSPEAKERS Kanto Audio used AXPONA 2026, which took place last weekend, to introduce a refreshed range of loudspeakers, headlined by the new Kanto Audio Tuk Grand. The launch also included updated versions&hellip;",
+            "date": "April 14, 2026",
+            "href": "./posts/kanto-audio-redesigned-speaker-range/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Jamo Loudspeaker Brand Returns",
+            "excerpt": "JAMO LOUDSPEAKER BRAND RETURN ANNOUNCED UNDER NEW OWNERSHIP The Jamo loudspeaker brand is set to return to the international audio market following a change in ownership. Now backed by Cinemaster and Rayleigh Lab, the Danish-founded company is preparing a relaunch&hellip;",
+            "date": "April 14, 2026",
+            "href": "./posts/jamo-loudspeaker-brand-returns/index.html",
+            "type": "post"
+        },
+        {
+            "title": "Battle Of The Dongles &#8211; DD HiFi TC44Grip, Fiio QX13, and Campfire Audio Relay",
+            "excerpt": "BATTLE OF THE DONGLES REVIEW This review is going to be a little different; Oscar will be looking at 3 slightly different USB-C dongle DAC/Amps for portable use.\u00a0 In this review, he will go over the features and audio quality&hellip;",
+            "date": "April 14, 2026",
+            "href": "./posts/battle-of-the-dongles-dd-hifi-tc44grip-fiio-qx13-and-campfire-audio-relay/index.html",
+            "type": "post"
+        },
         {
             "title": "Interview &#8211; Bill McKiegan of Dan D&#8217;Agostino Master Audio",
             "excerpt": "What makes Dan D\u2019Agostino Master Audio Systems one of the most talked-about names in high-end HiFi? At Audio Show Deluxe, Stuart Smith of HiFi PiG sits down with Bill McKiegan of Dan D\u2019Agostino Master Audio Systems to talk about the&hellip;",
@@ -444,20 +479,6 @@
             "date": "March 15, 2026",
             "href": "./posts/bar-talk/index.html",
             "type": "post"
-        },
-        {
-            "title": "Trilogy And Wilson Benesch At Audio Show Deluxe 2026",
-            "excerpt": "TRILOGY AND WILSON BENESCH WITH WILSON BENESCH GREENWICH TURNTABLE PREMIERE AT AUDIO SHOW DELUXE 2026 British HiFi brands Trilogy and Wilson Benesch will partner for demonstrations at Audio Show Deluxe 2026, presenting a system built around Wilson Benesch loudspeakers and&hellip;",
-            "date": "March 14, 2026",
-            "href": "./posts/trilogy-and-wilson-benesch-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
-        },
-        {
-            "title": "Chord Electronics At Audio Show Deluxe 2026",
-            "excerpt": "CHORD ELECTRONICS ULTIMA PRE3 AND ULTIMA 3 MONO AMPLIFIERS AT AUDIO SHOW DELUXE 2026 Chord Electronics will make its first appearance at Audio Show Deluxe 2026, where the company will present a selection of its amplification products and provide demonstrations&hellip;",
-            "date": "March 14, 2026",
-            "href": "./posts/chord-electronics-at-audio-show-deluxe-2026/index.html",
-            "type": "post"
         }
     ],
     "categories": [
@@ -467,6 +488,36 @@
             "slug": "news",
             "source_url": "https://www.hifipig.com/category/news/",
             "posts": [
+                {
+                    "title": "AVID Velsonic Phono Stage",
+                    "excerpt": "AVID VELSONIC PHONO STAGE LAUNCHED AS NEW FLAGSHIP ANALOGUE DESIGN British HiFi brand AVID has announced the launch of the AVID Velsonic phono stage, its first entirely new phono stage design since 2012. Developed in Cambridgeshire, the Velsonic replaces the&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/avid-velsonic-phono-stage/index.html"
+                },
+                {
+                    "title": "Grado Labs Signature S550 Autism Awareness Headphone Auction",
+                    "excerpt": "GRADO LABS MARKS AUTISM AWARENESS WITH ONE-OFF HEADPHONE AUCTION SUPPORTING EDEN II PROGRAMS Grado Labs has announced a one-of-a-kind headphone created to support autism awareness, with all proceeds going to Eden II Programs. The Brooklyn-based manufacturer has a long history&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/grado-labs-signature-s550-autism-awareness-headphone-auction/index.html"
+                },
+                {
+                    "title": "Kanto Audio Redesigned Speaker Range",
+                    "excerpt": "KANTO AUDIO TUK GRAND LEADS NEW GENERATION OF LOUDSPEAKERS Kanto Audio used AXPONA 2026, which took place last weekend, to introduce a refreshed range of loudspeakers, headlined by the new Kanto Audio Tuk Grand. The launch also included updated versions&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/kanto-audio-redesigned-speaker-range/index.html"
+                },
+                {
+                    "title": "Jamo Loudspeaker Brand Returns",
+                    "excerpt": "JAMO LOUDSPEAKER BRAND RETURN ANNOUNCED UNDER NEW OWNERSHIP The Jamo loudspeaker brand is set to return to the international audio market following a change in ownership. Now backed by Cinemaster and Rayleigh Lab, the Danish-founded company is preparing a relaunch&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/jamo-loudspeaker-brand-returns/index.html"
+                },
+                {
+                    "title": "Battle Of The Dongles &#8211; DD HiFi TC44Grip, Fiio QX13, and Campfire Audio Relay",
+                    "excerpt": "BATTLE OF THE DONGLES REVIEW This review is going to be a little different; Oscar will be looking at 3 slightly different USB-C dongle DAC/Amps for portable use.\u00a0 In this review, he will go over the features and audio quality&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/battle-of-the-dongles-dd-hifi-tc44grip-fiio-qx13-and-campfire-audio-relay/index.html"
+                },
                 {
                     "title": "Interview &#8211; Bill McKiegan of Dan D&#8217;Agostino Master Audio",
                     "excerpt": "What makes Dan D\u2019Agostino Master Audio Systems one of the most talked-about names in high-end HiFi? At Audio Show Deluxe, Stuart Smith of HiFi PiG sits down with Bill McKiegan of Dan D\u2019Agostino Master Audio Systems to talk about the&hellip;",
@@ -844,18 +895,108 @@
                     "excerpt": "I wanted to do a Sunday Thoughts piece on the bars we often frequent at HiFi shows around the world - that is, the bars actually at the events themselves, rather than some random bar we might have stumbled into&hellip;",
                     "date": "March 15, 2026",
                     "href": "../../posts/bar-talk/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Accessories",
+            "description": "<p>Hifi and Audiophile accessories reviewed on Hifi Pig</p>\n",
+            "slug": "accessories",
+            "source_url": "https://www.hifipig.com/category/accessories/",
+            "posts": [
+                {
+                    "title": "Battle Of The Dongles &#8211; DD HiFi TC44Grip, Fiio QX13, and Campfire Audio Relay",
+                    "excerpt": "BATTLE OF THE DONGLES REVIEW This review is going to be a little different; Oscar will be looking at 3 slightly different USB-C dongle DAC/Amps for portable use.\u00a0 In this review, he will go over the features and audio quality&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/battle-of-the-dongles-dd-hifi-tc44grip-fiio-qx13-and-campfire-audio-relay/index.html"
                 },
                 {
-                    "title": "Trilogy And Wilson Benesch At Audio Show Deluxe 2026",
-                    "excerpt": "TRILOGY AND WILSON BENESCH WITH WILSON BENESCH GREENWICH TURNTABLE PREMIERE AT AUDIO SHOW DELUXE 2026 British HiFi brands Trilogy and Wilson Benesch will partner for demonstrations at Audio Show Deluxe 2026, presenting a system built around Wilson Benesch loudspeakers and&hellip;",
-                    "date": "March 14, 2026",
-                    "href": "../../posts/trilogy-and-wilson-benesch-at-audio-show-deluxe-2026/index.html"
+                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
+                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Headphones",
+            "description": "<p>Hifi headphone reviews</p>\n",
+            "slug": "headphones",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/headphones/",
+            "posts": [
+                {
+                    "title": "Battle Of The Dongles &#8211; DD HiFi TC44Grip, Fiio QX13, and Campfire Audio Relay",
+                    "excerpt": "BATTLE OF THE DONGLES REVIEW This review is going to be a little different; Oscar will be looking at 3 slightly different USB-C dongle DAC/Amps for portable use.\u00a0 In this review, he will go over the features and audio quality&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/battle-of-the-dongles-dd-hifi-tc44grip-fiio-qx13-and-campfire-audio-relay/index.html"
                 },
                 {
-                    "title": "Chord Electronics At Audio Show Deluxe 2026",
-                    "excerpt": "CHORD ELECTRONICS ULTIMA PRE3 AND ULTIMA 3 MONO AMPLIFIERS AT AUDIO SHOW DELUXE 2026 Chord Electronics will make its first appearance at Audio Show Deluxe 2026, where the company will present a selection of its amplification products and provide demonstrations&hellip;",
-                    "date": "March 14, 2026",
-                    "href": "../../posts/chord-electronics-at-audio-show-deluxe-2026/index.html"
+                    "title": "ZMF Caldera Closed Headphones",
+                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
+                },
+                {
+                    "title": "Grell OAE2 Headphones",
+                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/grell-oae2-headphones/index.html"
+                }
+            ]
+        },
+        {
+            "name": "Hifi Reviews",
+            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
+            "slug": "hifi-reviews",
+            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
+            "posts": [
+                {
+                    "title": "Battle Of The Dongles &#8211; DD HiFi TC44Grip, Fiio QX13, and Campfire Audio Relay",
+                    "excerpt": "BATTLE OF THE DONGLES REVIEW This review is going to be a little different; Oscar will be looking at 3 slightly different USB-C dongle DAC/Amps for portable use.\u00a0 In this review, he will go over the features and audio quality&hellip;",
+                    "date": "April 14, 2026",
+                    "href": "../../posts/battle-of-the-dongles-dd-hifi-tc44grip-fiio-qx13-and-campfire-audio-relay/index.html"
+                },
+                {
+                    "title": "ZMF Caldera Closed Headphones",
+                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
+                    "date": "April 10, 2026",
+                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
+                },
+                {
+                    "title": "Mola Mola Ossetra Monobloc Amplifier",
+                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
+                    "date": "April 3, 2026",
+                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
+                },
+                {
+                    "title": "Authentic Audio Image Vittorioso + Cables",
+                    "excerpt": "AUTHENTIC AUDIO IMAGE VITTORIOSO + CABLES REVIEW Authentic Audio Image Vittorioso + cables are the Slovakian brand's entry-level offering, though they are still a substantial investment. In this review, Debbie Collinson takes a listen to the full range, including interconnects,&hellip;",
+                    "date": "April 2, 2026",
+                    "href": "../../posts/authentic-audio-image-vittorioso-cables/index.html"
+                },
+                {
+                    "title": "Grell OAE2 Headphones",
+                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/grell-oae2-headphones/index.html"
+                },
+                {
+                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
+                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
+                    "date": "March 31, 2026",
+                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
+                },
+                {
+                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
+                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
+                    "date": "March 18, 2026",
+                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
+                },
+                {
+                    "title": "Tellurium Q Silver III Series Cables",
+                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
+                    "date": "March 17, 2026",
+                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
                 }
             ]
         },
@@ -1032,18 +1173,6 @@
                     "excerpt": "KII AUDIO BRING KII SEVEN ACTIVE LOUDSPEAKER SYSTEM TO AUDIO SHOW DELUXE 2026 WITH HEA DISTRIBUTION Visitors to Audio Show Deluxe 2026 will be able to join Kii Audio to experience the Kii SEVEN Active Loudspeaker System, presented by HEA&hellip;",
                     "date": "March 16, 2026",
                     "href": "../../posts/kii-audio-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Trilogy And Wilson Benesch At Audio Show Deluxe 2026",
-                    "excerpt": "TRILOGY AND WILSON BENESCH WITH WILSON BENESCH GREENWICH TURNTABLE PREMIERE AT AUDIO SHOW DELUXE 2026 British HiFi brands Trilogy and Wilson Benesch will partner for demonstrations at Audio Show Deluxe 2026, presenting a system built around Wilson Benesch loudspeakers and&hellip;",
-                    "date": "March 14, 2026",
-                    "href": "../../posts/trilogy-and-wilson-benesch-at-audio-show-deluxe-2026/index.html"
-                },
-                {
-                    "title": "Chord Electronics At Audio Show Deluxe 2026",
-                    "excerpt": "CHORD ELECTRONICS ULTIMA PRE3 AND ULTIMA 3 MONO AMPLIFIERS AT AUDIO SHOW DELUXE 2026 Chord Electronics will make its first appearance at Audio Show Deluxe 2026, where the company will present a selection of its amplification products and provide demonstrations&hellip;",
-                    "date": "March 14, 2026",
-                    "href": "../../posts/chord-electronics-at-audio-show-deluxe-2026/index.html"
                 }
             ]
         },
@@ -1150,76 +1279,6 @@
             ]
         },
         {
-            "name": "Headphones",
-            "description": "<p>Hifi headphone reviews</p>\n",
-            "slug": "headphones",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/headphones/",
-            "posts": [
-                {
-                    "title": "ZMF Caldera Closed Headphones",
-                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
-                    "date": "April 10, 2026",
-                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
-                },
-                {
-                    "title": "Grell OAE2 Headphones",
-                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/grell-oae2-headphones/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Hifi Reviews",
-            "description": "<p>Hifi Pigs Hifi equipment reviews page</p>\n",
-            "slug": "hifi-reviews",
-            "source_url": "https://www.hifipig.com/category/hifi-reviews/",
-            "posts": [
-                {
-                    "title": "ZMF Caldera Closed Headphones",
-                    "excerpt": "ZMF CALDERA CLOSED HEADPHONES REVIEW Oscar Stewart first reviewed a pair of ZMF headphones last year, the excellent Ori 3.0, and in this review, he will be looking at their Caldera Closed. This model is a closed-back version of their&hellip;",
-                    "date": "April 10, 2026",
-                    "href": "../../posts/zmf-caldera-closed-headphones/index.html"
-                },
-                {
-                    "title": "Mola Mola Ossetra Monobloc Amplifier",
-                    "excerpt": "MOLA MOLA OSSETRA MONOBLOC AMPLIFIER REVIEW Mola Mola Ossetra monobloc amplifiers are Class-D amps based on the Hypex modules, though these amps are very much designed and built from the ground up. Having loved the Mola Mola Perca stereo power&hellip;",
-                    "date": "April 3, 2026",
-                    "href": "../../posts/mola-mola-ossetra-monobloc-amplifier/index.html"
-                },
-                {
-                    "title": "Authentic Audio Image Vittorioso + Cables",
-                    "excerpt": "AUTHENTIC AUDIO IMAGE VITTORIOSO + CABLES REVIEW Authentic Audio Image Vittorioso + cables are the Slovakian brand's entry-level offering, though they are still a substantial investment. In this review, Debbie Collinson takes a listen to the full range, including interconnects,&hellip;",
-                    "date": "April 2, 2026",
-                    "href": "../../posts/authentic-audio-image-vittorioso-cables/index.html"
-                },
-                {
-                    "title": "Grell OAE2 Headphones",
-                    "excerpt": "GRELL OAE2 HEADPHONES REVIEW For those of you into headphones, you\u2019ll likely have heard of Grell Audio, as they were founded by the man behind the famous Sennheiser HD600/650, HD800, and many others. Oscar Stewart tries out the OAE2 for&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/grell-oae2-headphones/index.html"
-                },
-                {
-                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
-                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
-                },
-                {
-                    "title": "D&#8217;Von Audio SQ-20 Standmount Speakers",
-                    "excerpt": "D\u2019VON AUDIO SQ-20 STANDMOUNT LOUDSPEAKERS REVIEW D'Von Audio SQ-20 standmount speakers are a relatively compact speaker from a brand-new manufacturer in the UK. The company caused quite the stir at the recent Bristol HiFi Show, so we thought we ought&hellip;",
-                    "date": "March 18, 2026",
-                    "href": "../../posts/dvon-audio-sq-20-standmount-speakers/index.html"
-                },
-                {
-                    "title": "Tellurium Q Silver III Series Cables",
-                    "excerpt": "TELLURIUM Q SILVER III SERIES CABLES REVIEW Tellurium Q Silver III series cables include RCA and XLR interconnects, speaker cables, jumpers, USB cables,and power cables. In this review, Janine Elliot takes a listen to the speaker cables and interconnects. Reviewing&hellip;",
-                    "date": "March 17, 2026",
-                    "href": "../../posts/tellurium-q-silver-iii-series-cables/index.html"
-                }
-            ]
-        },
-        {
             "name": "Behind the Brands",
             "description": "<p>Interviews with leading figures in the Hifi Industry</p>\n",
             "slug": "interviews",
@@ -1278,20 +1337,6 @@
                     "excerpt": "THE HiFi PiG SELECTION BOX \u2013 DIVERSIONARY STRATEGIES FOR THE MODERN WORLD MARCH 2026 Inspired by the seventies children\u2019s television program Why Don\u2019t You, HiFi PiG is putting together a monthly digest of links to music, literature, film, and more&hellip;",
                     "date": "March 31, 2026",
                     "href": "../../posts/the-hifi-pig-selection-box-march-2026/index.html"
-                }
-            ]
-        },
-        {
-            "name": "Accessories",
-            "description": "<p>Hifi and Audiophile accessories reviewed on Hifi Pig</p>\n",
-            "slug": "accessories",
-            "source_url": "https://www.hifipig.com/category/accessories/",
-            "posts": [
-                {
-                    "title": "Bassocontinuo Vanguard Sirius HiFi Rack",
-                    "excerpt": "BASSOCONTINUO VANGUARD SIRIUS HiFi RACK REVIEW Bassocontinuo Vanguard Sirius HiFi rack is the entry-level rack system from this well-known Italian manufacturer. Stuart Smith assembles it and takes a listen. All Bassocontinuo products are designed, conceived and manufactured entirely in Italy,&hellip;",
-                    "date": "March 31, 2026",
-                    "href": "../../posts/bassocontinuo-vanguard-sirius-hifi-rack/index.html"
                 }
             ]
         },
